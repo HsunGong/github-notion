@@ -74,7 +74,14 @@ for pageid in new_pageids:
         'URL': {'type': 'url', 'url': "https://github.com/" + repo.full_name},
         'Description': {'type': 'rich_text', 'rich_text': [{'type': 'text', 'text': {'content': repo.description}}]},
     }
-    notion.pages.create(parent=dict(database_id=DATABASE_ID), properties=properties)
+    cnt = 0
+    try:
+        while cnt < 3:
+            notion.pages.create(parent=dict(database_id=DATABASE_ID), properties=properties)
+    except APIResponseError as error:
+        logging.error(error)
+        import time; time.sleep(3)
+        cnt += 1
 
 for pageid in cur_pageids:
     repo =  repo_infos[pageid]
@@ -86,4 +93,11 @@ for pageid in cur_pageids:
         'Commit': {'type': 'date', 'date': {'start': repo.pushed_at.astimezone(pytz.timezone("Asia/Shanghai")).strftime("2022-11-02")}},
     }
     # print(pageid, properties)
-    notion.pages.update(page_id=pageids_map[pageid], properties=properties)
+    cnt = 0
+    try:
+        while cnt < 3:
+            notion.pages.update(page_id=pageids_map[pageid], properties=properties)
+    except APIResponseError as error:
+        logging.error(error)
+        import time; time.sleep(3)
+        cnt += 1
