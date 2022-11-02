@@ -2,12 +2,8 @@ name: Partial Sync Notion Star
 
 on:
   schedule:
-    - cron: '0 0 /1 * *'
-  workflow_dispatch:
+    - cron: '0 0 */5 * *'
   push:
-    branches:
-      - 'main'
-      - 'releases/**'
 
 jobs:
   partial-sync:
