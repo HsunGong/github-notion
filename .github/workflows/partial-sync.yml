@@ -2,44 +2,31 @@ name: Partial Sync Notion Star
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 0 /1 * *'
   workflow_dispatch:
+  push:
+    branches:
+      - 'main'
+      - 'releases/**'
+
 jobs:
   partial-sync:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.8"]
+
     environment: notion-sync
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Download cache storage of last build
-        uses: dawidd6/action-download-artifact@v2
-        continue-on-error: true
+      - uses: actions/checkout@v3
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v4
         with:
-          workflow: partial-sync.yml
-          workflow_conclusion: success
-          name: notion-sync-storage
-          path: .cache
-
-      - name: Setup environment
-        uses: actions/setup-node@v2.2.0
-        with:
-          always-auth: false
-          node-version: 16.x
-          cache: yarn
-
-      - run: yarn
-
-      - name: Run Partial Sync
-        env:
-          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
-          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
-          TOKEN_OF_GITHUB: ${{ secrets.TOKEN_OF_GITHUB }}
-          FULLSYNC_LIMIT: 2000
-          PARTIALSYNC_LIMIT: 10
-          REPO_TOPICS_LIMIT: 50
-        run: npm start
-
-      - uses: actions/upload-artifact@v2
-        with:
-          name: notion-sync-storage
-          path: .cache
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Lint with flake8
+        run: |
+          python main.py

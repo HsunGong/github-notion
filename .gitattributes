@@ -1,5 +1,0 @@
-yarn.lock -diff
-**/compiled.js -diff
-**/compiled.d.ts -diff
-
-apps/olympic/public/** -diff
