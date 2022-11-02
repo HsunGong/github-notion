@@ -68,7 +68,7 @@ for pageid in new_pageids:
             {'type': 'text', 'text': {'content': repo.full_name}},
         ]},
         'Stars': {'type': 'number', 'number': repo.stargazers_count}, 
-        'Commit': {'type': 'date', 'date': {'start': repo.pushed_at.astimezone(pytz.timezone("Asia/Shanghai")).strftime("2022-11-02")}},
+        'Commit': {'type': 'date', 'date': {'start': repo.pushed_at.astimezone(pytz.timezone("Asia/Shanghai")).strftime("%Y-%m-%d")}},
 
         'Keywords': {'type': 'multi_select', 'multi_select': [{"name": i} for i in repo.topics]},
         'URL': {'type': 'url', 'url': "https://github.com/" + repo.full_name},
@@ -91,7 +91,7 @@ for pageid in cur_pageids:
             {'type': 'text', 'text': {'content': repo.full_name}},
         ]},
         'Stars': {'type': 'number', 'number': repo.stargazers_count}, 
-        'Commit': {'type': 'date', 'date': {'start': repo.pushed_at.astimezone(pytz.timezone("Asia/Shanghai")).strftime("2022-11-02")}},
+        'Commit': {'type': 'date', 'date': {'start': repo.pushed_at.astimezone(pytz.timezone("Asia/Shanghai")).strftime("%Y-%m-%d")}},
     }
     # print(pageid, properties)
     cnt = 0
