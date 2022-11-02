@@ -78,6 +78,7 @@ for pageid in new_pageids:
     try:
         while cnt < 3:
             notion.pages.create(parent=dict(database_id=DATABASE_ID), properties=properties)
+            break
     except APIResponseError as error:
         logging.error(error)
         import time; time.sleep(3)
@@ -97,6 +98,7 @@ for pageid in cur_pageids:
     try:
         while cnt < 3:
             notion.pages.update(page_id=pageids_map[pageid], properties=properties)
+            break
     except APIResponseError as error:
         logging.error(error)
         import time; time.sleep(3)
