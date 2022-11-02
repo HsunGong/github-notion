@@ -15,7 +15,6 @@ g = Github(GITHUB_TOKEN)
 
 repo_infos = {name:g.get_repo(name) for name in REPOS}
 
-import pdb; pdb.set_trace()
 print([(k,v) for k,v in repo_infos.items()])
 
 # 3, access notion database
