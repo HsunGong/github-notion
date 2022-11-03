@@ -13,7 +13,12 @@ from github import Github
 GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
 g = Github(GITHUB_TOKEN)
 
-repo_infos = {name:g.get_repo(name) for name in REPOS}
+repo_infos = {}
+for name in REPOS:
+    try:
+        repo_infos[name] = g.get_repo(name)
+    except Exception as err:
+        logging.error(err)
 
 print([(k,v) for k,v in repo_infos.items()])
 
