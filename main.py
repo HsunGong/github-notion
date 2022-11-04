@@ -14,7 +14,7 @@ GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
 g = Github(GITHUB_TOKEN)
 
 repo_infos = {}
-for name in list(REPOS.keys()):
+for name in REPOS:
     try:
         repo_infos[name] = g.get_repo(name)
     except Exception as err:
