@@ -30,4 +30,4 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Lint with flake8
         run: |
-          python rm_dub_db_item.py
+          python rm_dup_db_item.py
