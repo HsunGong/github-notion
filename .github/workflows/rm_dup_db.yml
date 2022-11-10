@@ -4,8 +4,11 @@ on:
   schedule:
     - cron: '0 0 */7 * *'
   push:
+    branches:
+      - "**"
     paths:
       - 'rm_dup_db_item.py'
+      - '.github/workflows/rm_dup_db.yml'
 
 env:
   GITHUB_TOKEN :  ${{ secrets.GITHUB_TOKEN }}

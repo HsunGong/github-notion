@@ -4,8 +4,12 @@ on:
   schedule:
     - cron: '0 0 */7 * *'
   push:
+    branches:
+      - "**"
     paths:
       - 'github_sync.py'
+      - '.github/workflows/github_repo.yml'
+      - 'repos'
 
 env:
   GITHUB_TOKEN :  ${{ secrets.GITHUB_TOKEN }}
