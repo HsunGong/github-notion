@@ -95,4 +95,6 @@ def process_db(db_id):
         time.sleep(0.5)
 
 for db_id in DATABASE_IDS:
+    if db_id == "":
+        continue
     process_db(db_id)
