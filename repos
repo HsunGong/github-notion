@@ -17,5 +17,5 @@ bytedance/lightseq
 speechbrain/speechbrain
 pyannote/pyannote-audio
 kensho-technologies/pyctcdecode
-kaldi/kaldi
+kaldi-asr/kaldi
 pykaldi/pykaldi

@@ -1,4 +1,4 @@
-name: Partial Sync Notion Star
+name: Remove Duplicate in Notion Database
 
 on:
   schedule:
@@ -8,7 +8,8 @@ on:
 env:
   GITHUB_TOKEN :  ${{ secrets.GITHUB_TOKEN }}
   NOTION_TOKEN : ${{ secrets.NOTION_TOKEN }}
-  NOTION_DATABASE : ${{ secrets.NOTION_DATABASE }}
+  # NOTION_RM_DUP_DATABASES example: "notion_db_id1:notion_db_id2"
+  NOTION_RM_DUP_DATABASES : ${{ secrets.NOTION_RM_DUP_DATABASES }}
 
 jobs:
   partial-sync:
@@ -29,4 +30,4 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Lint with flake8
         run: |
-          python github_sync.py
+          python rm_dub_db_item.py

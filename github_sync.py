@@ -21,6 +21,7 @@ for name in REPOS:
         logging.error(err)
         logging.error(name)
         repo_infos.pop(name)
+REPOS = set(repo_infos.keys())
 
 print([(k,v) for k,v in repo_infos.items()])
 
