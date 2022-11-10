@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '0 0 */7 * *'
   push:
+    paths:
+      - 'github_sync.py'
 
 env:
   GITHUB_TOKEN :  ${{ secrets.GITHUB_TOKEN }}
