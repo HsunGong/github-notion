@@ -50,7 +50,9 @@ def process_db(db_id):
             logging.error(error)
         else:
             for item in database["results"]:
-                print(item["properties"]["Name"])
+                if len( item["properties"]["Name"]["title"]) == 0:
+                    logging.warning("Empty Item: " + str(item))
+                    continue
                 name:str = item["properties"]["Name"]["title"][0]["plain_text"]
                 name = re.sub('[^A-Za-z0-9]+', '', name.upper())
                 item["properties"].pop("Name")
