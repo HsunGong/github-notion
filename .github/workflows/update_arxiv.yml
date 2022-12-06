@@ -1,0 +1,45 @@
+name: Update arxiv
+
+on:
+  schedule:
+    - cron: '0 0 */2 * *'
+  push:
+    branches:
+      - "**"
+    paths:
+      - 'update_arxiv.py'
+      - '.github/workflows/update_arxiv.yml'
+
+env:
+  GITHUB_TOKEN :  ${{ secrets.GITHUB_TOKEN }}
+  NOTION_TOKEN : ${{ secrets.NOTION_TOKEN }}
+  # NOTION_RM_DUP_DATABASES example: "notion_db_id1:notion_db_id2"
+  NOTION_PAPER_DATABASE : ${{ secrets.NOTION_PAPER_DATABASE }}
+
+jobs:
+  partial-sync:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.8"]
+    environment: notion-sync
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Lint with flake8
+        run: |
+          python update_arxiv.py
+  - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+    with:
+      default_author: user_info
+      fetch: false
+      message: 'update paper names from arxiv'
+      pathspec_error_handling: ignore
+      push: true

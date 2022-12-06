@@ -1,3 +1,4 @@
 PyGithub
 notion-client
 pytz
+arxiv
