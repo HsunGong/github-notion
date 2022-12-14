@@ -212,7 +212,7 @@ def update_by_arxiv():
             "sessions": {"type": "select", "select": None},
             "others": {"type": "rich_text", "rich_text": [{'type': 'text', 'text': {'content': others}}]},
         }
-
+        print(properties)
         if create_notion(properties):
             PAPERS.add(name)
 update_by_arxiv()
