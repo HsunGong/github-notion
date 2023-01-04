@@ -19,3 +19,4 @@ pyannote/pyannote-audio
 kensho-technologies/pyctcdecode
 kaldi-asr/kaldi
 pykaldi/pykaldi
+nvidia-riva/tutorials
