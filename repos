@@ -1,6 +1,6 @@
 hirofumi0810/neural_sp
 espnet/espnet
-pytorch/fairseq
+facebookresearch/fairseq
 s3prl/s3prl
 k2-fsa/icefall
 microsoft/NeuralSpeech
