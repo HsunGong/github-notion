@@ -20,3 +20,5 @@ kensho-technologies/pyctcdecode
 kaldi-asr/kaldi
 pykaldi/pykaldi
 nvidia-riva/tutorials
+tuffy/python-audio-tools
+tyiannak/pyAudioAnalysis
