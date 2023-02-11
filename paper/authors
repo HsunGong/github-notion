@@ -1,2510 +1,2510 @@
-Jesse Emond
-Tanvina Patel
-Tom Francart
+Sen Yoshida
+Zhen Huang
+Masato Murata
+Tatiana Yudina
+Ahnaf Mozib Samin
+Ralf Schluter ; AppTek
+Shinsuke Sakai
+Andrea Fasoli
+Toshiki Onishi
+Mark J. Cook
+Takuma Udagawa
 Zhihan Wang
-Yi Xie
+Felix Kreuk
+Ferhan Ture
+Ashwinkumar Ganesan
+Ehsan Variani; Google
+Qiantong Xu
+David Lo
+Tatiana Likhomanenko
+Elisabet Service
+Bo Xu
+Meiko Fukuda
+Guoguo Chen
+Divesh Lala
+Ton Juny Pina
+Qian Ge
+Rodolfo Zevallos
+Andreas K. Maier
+Andy W. H. Khong
+Shatrughan Singh
+Feng Hou
+Yuan You
+Keerthana Gopalakrishnan
+Ondrej Klejch
+Ziqiang Zhang
+Thierry Pham
+Hui Zhang
+Karissa Vincentio
+Ali Lashini
+Ozlem Kalinli ; MetaAI
+Anna Warzybok
+Junho Park
+Yu-Wen Chen
+Arjit Jain
+Mohan Shi
+Gayadhar Pradhan
+Nicholas Cummins
+Ehsan Variani ; Google
+Qibing Bai
+Yashesh Gaur ; MSR
+Pengcheng Guo
+Daan Van Esch
+Xiaodan Zhuang
+Songxiang Liu
+Boris Ginsburg ; Nvidia
+Jiangtao Yu
+Herve Bourlard; EPFL
+Hai Li
+Emmanuel Vincent
+Neasa Ní Chiaráin
 Zhao Zhang
-Junfeng Hou
-Haaris Mehmood
-Brian Kingsbury; IBM
-Nizar Habash
-Arunkumar A
-Matt Post
-Long Lin
-Edith C. H. Ngai
-Pengfei Liu1
-Seungheon Doh
-Gernot Kubin
-Yuguang Yang
-Aishanee Shah
-Li Zhao
-Youngsik Eom
-Xin Fang
-Woo Kyeong Seong
-Xin Li
-Yu Ting Yeung
-Heidi Christensen
-Andreas Schwarz
-Hannes Gamper
-Jingdong Chen
-Bogdan Ludusan
-Bhuvana Ramabhadran ; Google
-Marcelo Finger
-Mengxi Nie
-Chao Yang
-Junichi Yamagishi
-Yannick Estève; LIA-Avignon
-Christopher Gebauer
-John A. Batsis
-Ofir Nachum
-Hyungchan Song
-Norihide Kitaoka ; TUT
-Johnny Downs
-Hartmut Lehfeld
-Han Zhu
-Yuan Zong
-Chuanbo Zhu
-Yichong Leng
-Alexandros Potamianos
-Ziwei Ji
-Heting Gao
-Xiaopei Wu
-Ruoming Pang ; Google
-Chao Deng
-Bruno A. Papa Dias
-Bastian Oppermann
-Lijinyu
-Ashish Seth
-Rui Wang
-Takashi Fukuda; IBM
-Kaustubh D. Dhole
-Tsubasa Ochiai ; NTT
-Lei Sun
-Suhail K K
-Benjamin Galliot
-John H.L. Hansen
-Xurong Xie
-Kai Shen
-Aswarth Abhilash Dara
-Leah Bradshaw
-Kazuhiro Nakadai
-Mark Hallap
-Rohit Prabhavalkar ; Google
-Ian Lane ; CMU
-Paul Hongsuck Seo
-Matthew Baas
-Gholamreza Haffari
-Yu Chen
-Takeshi Mishima
-Guilin Qi
-Germany
-Xiaofei Wang
-Yasuhiro Sogawa
-Shengjie Li
-Kuaishou
-Tomas Jackson
-M. Humayan Kobir
-Julia Kreutzer
-Viet Anh Trinh
-Wei-Ning Hsu
-Sebastian Peter Bayerl
-Chang Zhou
-Ilia Kulikov
-Sayan Pathak
-Yohei Tahara
-Marco Matassoni
-Giovanni Motta
-Nassos Katsamanis
-Yuxiang Kong
-Zhouyuan Huo
-Maneesh Singh
-Qiao Tian
-Zhendong Peng; WeNet
-Yuntao Li
-Pengyuan Zhang; CAS
-Emily Prud'Hommeaux
-Keiho Owada
-Renee Lu
-Alexandre Bittar
-Yi Shen
-Toshiki Kawamoto
-Esther Kunay
-Thiago Fraga Da Silva
-Anish Bhanushali
-Jacob Donley
-Xin Jiang
-A Arunkumar
-Payal Bajaj
-Asahi Ogushi
-Dwight W. Irvin
-Xiaozhou Zhou
-Sreepratha Ram
-Chae-Won Lee
-Swagath Venkataramani
-Zhenglin Zhang
+Lei Liu ; CUHK.SZ
+Wanyu Li
+Rim Helaoui
 Mafuyu Kitahara
-Young-Eun Lee
-Willi Rath
+Apptek
+Verdiana De Fino
+Zhihao Wang
+Ryota Nishimura; Toku.
+Seong-Whan Lee
+Tianhe Yu
+Alex Xiao
+Felicitas Kleber
+Muhammad Farid Adilazuarda
+Alexandre Bittar
+Qiang Zhang
+Eesung Kim
+Hoi Rin Kim
+Pin-Tuan Huang
+Ingo Langheinrich
+Julien Pinquier
+Ji Won Yoon
+Yonggan Fu
+Lucas Rafael Stefanel Gris
+Sayan Pathak
+Simon De Wergifosse
+Yuanyuan Zhang
+Tommaso Ciulli
+Kishan Gupta
+Tien-Ju Yang
+Mark Huckvale
+Mu Yang
+Mandar Gogate
+Chin-Yueh Chien
+Shoukang Hu
+John A. Batsis
+Xubo Liu
+Qiang Yu
+Julian Linke
+Zhijie Shen
+Stavros Petridis
+Yanmeng Wang
+Yoshua Bengio
+Arunkumar A
+Zhongfu Ye
+Dirk Voit
+Jinhan Wang
+Swaraj Dalmia
+Shang-Wen Li
+Fanny Meunier
+Jingdong Chen
+Bidisha Sharma
+Suhail K K
+Takahiro Mochizuki
+Zhongqiang Huang
+Trevor Strohman ; Google
+Mohd Abbas Zaidi
+Rui Zhao
+Xiaofu Chen
+Megh Thakkar
+Juntae Kim
+Menglong Xu
+Chao Zhang
+Lisha Chen
+Ayse Kucukyilmaz
+Xiao Jing; PingAn
+Chen Wang
+Issac Alphanso
+Yichong Leng
+Prashant Sridhar ; ASAPP
+Julie Liss
+Alexandros Haliassos
+Gary Geunbae Lee
+Pablo Mainar
+Yinchuan Li
+Rebecca Elizabeth Hacker
+Nirmesh Shah
+Sining Sun
+Constantin Orăsan
+Mengjie Qian
+Lingyun Feng
+Pingan
+Bishal Lamichhane
+Jinyu Li; MSR
+Chong Luo
+Edith C. H. Ngai
+Nan Yan
+Xiao Wang
+Giuseppe Riccardi
+Huong Tran
+Ishwarya Ananthabhotla
+Rongmei Lin
+Marta R. Costa-Jussà
+Samuel Thomas
+Philipp Klumpp
+Shuyan Dong
+Marco Dinarelli
+Shinnosuke Takamichi
+Kun Wei
+Xiong Xiao
+Abhinav Goyal
+Niko Moritz
+Ruihua Song
+Wenming Zheng
+Min Tang
+Takeshi Mishima
+Katrin Kirchhoff
+Daniele Riboni
+Nicolaea Catalin Ristea
+W. Bastiaan Kleijn
+Maneesh Singh
+Lirong Dai ; USTC
+Ankur Gandhe
+Vyas Raina
+Yves Laprie
+Pedro J. Moreno
+Zhiyun Lu
+Hexin Liu
+Akihiro Miyata
+Takao Nakamura
+Eva Sharma
+Sabato Marco Siniscalchi
+Bruno A. Papa Dias
+Thinh Truong
+Ding Zhao
+Xiaodong Cui
+Maxime Burchi
+Utsav Malla
+Rohit Prabhavalkar ; Google
+Margaret Zellers
+Shuhan Yuan
+Yutian Li
+Adam Stambler
+Saskia Wepner
+Ya Li
+Hang Liu
+Salvatore Fara
+Xueliang Zhang
+Asahi Ogushi
+Zixia Fan
+João Vítor Possamai De Menezes
+Okim Kang
+Tanvi Dinkar
+Jun Du
+Beom Jun Woo
+Jörn Ostermann
+Ai Mizoguchi
+Aleksandr Laptev
+Stefano Bannò
+Jing Zhang
+Pegah Ghahremani
+Rosanna Turrisi
+Yukun Qian
+Neil Scheidwasser-Clow
+Chao Deng
+Norihide Kitaoka; TUT
+Jiangyu Han
+Genta Indra Winata
+Kyunghyun Cho
+Toshinori Sato
+Kirandevraj R
+Liangyou Li
+Yuchen Liu
+Takuya Kunihara
+Jiřı́ Martı́Nek
+Wonkee Lee
+Xiaozhou Zhou
+Marli Quadros Leite
+Shuo-Yiin Chang ; Google
+Takuya Yoshioka
+Ming Zhao
+Yossi Adi
+Jennifer Santoso
+Jesse Emond
+Alexandros Potamianos
+Sirui Wang
+Pavel Kral
+Ta Li1; CAS
+Shuta Ichimura
+Jasper Hong Sim
+Takahiro Shinozaki ; TIT
+Ralf Schluter; AppTek
+Meng Cai
+Amrit Romana
+Yoshiaki Bando
+Sangha Kim
+Yuhui Wang
+Yu-Chen Hu
+Ke Hu
+Maximilian Karl Scharf
+Karteek Alahari
+Helena Cuesta
+Hae-Sung Jeon
+Lukas Burget
+Woo Kyeong Seong
+Google
+Akihiko Takashima
+Sefik Emre Eskimez
+Yevgen Chebotar
+Diana Nguyen
+Fuji Ren
+Song Cheng
+Takaaki Saeki
+Derek Xu
+Zeyu Jin
+Jun Ma
+David M. Chan
+Chenhui Chu
+Shammur Absar Chowdhury
+Ehsan Shareghi
+Kevin Hirschi
+Chengfei Li
+Nadee Seneviratne
+Na Xu
+Pengcheng Li; iFLYTEK
+Minglun Han
+Efthymios Georgiou
+Paavo Alku
+Yifan Peng ; CMU
+Osbel López-Francisco
+Saurav Sahay
+Abdul Hameed Azeemi
+Dinesh Manocha
+Martine Adda-Decker
+Samik Sadhu
+Brian Yan
+Jahyun Goo
+Zhe Liu
+Chandrakiran C
+Christoph Boeddeker
+Naveen Parihar
+Dwight W. Irvin
+Lama Nachman
+Zhouyuan Huo
+Ruchir Travadi
+Jianyi Yang
+Corentin Puffay
+Norihide Kitaoka ; TUT
+Sophie Rosset
+Fadi Biadsy
+Takeshi Homma
+Jingyuan Yang
+Ali Yazdani
+Karel Veselý
+Isabel Trancoso
+Hao Shi
+Bharat Ram Ambati
+Long Ma; Tencent
+Peng Xu
+Kak Soky
+Samin Heydarian
+Wei Han
+Yuguang Yang
+Timothy Baldwin
+Ryan Julian
+Duzhen Zhang
+Injy Hamed
+Shiliang Zhang
+Hidenori Yamasue
+Ayako Hashimoto
+Chyi-Jiunn Lin
+Xiaowang Zhang
+Fan Yu
+Lukasz Lew
+Hang Zhao
+Xiao Jing ; PingAn
+Xin-Chun Li
+Deepak Baby
+Sally Jesmonth
+Tanvina Patel
+Zhuo Chen
+David Feinberg
+Björn Hoffmeister
+Minhwa Chung
+Hoang Thi Thu Uyen
+Wei-Qiang Zhang
+Rong Tong
+Murali Karthick Baskar
+Deepak Mittal
+Muhammad Satrio Wicaksono
+Michael Seltzer
+Ruchao Fan
+Yong Man Ro
+Jon P Barker ; Sheffield
+Evelina Bakhturina
+Aws
+Yoshihiro Yamazaki
+Fangzhu Li
+Weibin Zhang
+Clara Rivera
+Chuanzeng Huang
+Junan Li
+Jennifer Cole
+Ewan Dunbar
+Emil Berger
+Xianchao Wu
+Mine Kerpicci
+Nari Rhee
+Yu Tsao
+Craig Murray
+Leah Bradshaw
+Puming Zhan
+Liyong Guo
+Lukas Drude
+Chen Huang
+Philip N. Garner ; Idiap
+Núria Bel
+Katsutoshi Itoyama
+Rongqing Huang
+Thomas Arildsen
+Xiao Song
+Wei Luo
+Paden Tomasello
+Hao Tang
+Minsu Kim
+Zhan Zhang
+Zehan Li
+Rifki Afina Putri
+Guillaume Jacques
+Sangwoo Park
+Hossein Zeinali
+Kris Demuynck
+Tetsuji Ogawa
+Alexander Mainka
+Jason Lilley
+Chen Zhang
+Koharu Horii
+Mingda Chen
+Shivani Agrawal
+Yinghui Huang ; Google
+Jonathan Amith
+Ambre Denis-Noël
+Franz Pernkopf
+Thomas Quinnell
+Brechtje Post
+Hynek Hermansky ; JHU
+Xiaohui Zhang
+Jeehye Lee
+Atsushi Fukayama
+Takaaki Hori
+Xiaopei Wu
+Pedro Moreno; Google
+Jash Rathod
+Alexandre Tkatchenko
+Mark Dingemanse
+Yi-Ting Chen
+Jade Copet
+Simran Khanuja
+Il-Youp Kwak
+Karan Shetty
+Md Tahmid Rahman Laskar
+Renee Lu
+Samuel Cahyawijaya
+Emilia Gomez
+Supratik Bhattacharya
+Mickael Rigault
+Yu Zhang ; Google
+Michal Ptaszynski
+Zixun Guo
+Catherine Lai
+Tomoki Koriyama
+Debarpan Bhattacharya
+Haizhou Li; CHUKSZ
+Tyler Miller
+Da-Hee Yang
+Sheng Li
+Anderson R. Avila
+Youngcheol Park
+Weidong Chen
+Yosuke Kashiwagi
+Zijian Yang
+Weiran Wang
+Md Akmal Haidar
+Gerasimos Chatzoudis
+Marelie H. Davel
+Atsunori Ogawa ; NTT
+Markus Förstel
+Jian-Qing Gao
+Yu-Kuan Fu
+Abner Hernandez
+Geoffroy Vanderreydt
+Umesh S
+Grant Strimel
+Elizabeth Buchanan-Worster
+Yihan Wu
+Ann Lee
+Zixiu Wu
+Felix Meyer
+Yingyi Ma
+Anna Ollerenshaw
+Takahiro Shinozaki; TIT
+Kanghao Zhang
+Yizhou Sun
+Roeland Van Hout
+Marcely Zanon Boito
+Katherine Powell
+Seung-Hyun Lee
+Nanxin Chen
+Motoi Omachi
+Yasuhito Ohsugi
+Swetha R. Gangu
+Yufei Liu
+Cong Liu ; iFLYTEK
+Kevin Crews
+Greg Brockman
+Yingyan Lin
+Jieke Shi
+Xin Jiang
+Masayuki Suzuki ; IBM
+Kenkichi Ishizuka
+Tianzi Wang
+Pengwei Wang
+Tarun Sai Bandarupalli
+Xiaoming Zhang
+Jan Černocký
+Franziska Braun
+Karen Livescu
+Yongjie Lv
+Han-Jia Ye
+Qingqing Zhang
+Ilya Sklyar
+Weinan E
+Quan Wang
+Chandramouli Shama Sastry
+Cécile Fougeron
+Jong Wook Kim
+Zheng-Hua Tan
+Beena Ahmed
+Chengdong Liang
+Dhanush Bekal
+Huahuan Zheng
+Zhiyuan Zhao
+Jovan M. Dalhouse
+Cheung Chi Leung
+Christine Mcleavey
+Kumarmanas Nethil
+Ondřej Klejch
+Peng-Jen Chen
+Alexander Johnson
+Tatsuya Komatsu
+Monica Sunkara
+Zhixiang Xiong
+Peng Zhou
+Pingchuan Ma
+Parisa Haghani
+Henry Mason
+Morgane Rivière
+Yifan Peng; CMU
+Trung Le
+Mark Hallap
+Srikanth Ronanki
+Guru Prakash
+Julien Epps
+Christin Kirchhübel
+Peiying Wang
+Bence Halpern
+Mark J. F. Gales
+Hyun Jin Park
+Jesús Andrés-Ferrer
+Manfred Vogel
+Aswin Shanmugam Subramanian
+Janine Rugayan
+Lena Jäger
+Phoenix Meadowlark‎
+Rudolf Uher
+Xiaofen Xing
+Florian Hönig
+Wei Wang
+Kaustubh D. Dhole
+Shifu Xiong
+Running Zhao
+Shoei Sato
+Li-Zhuang Yang
+Junichi Yamagishi
+Debjyoti Paul
+Zezhong Jin
+Xiaohui Liang
+Yan Wang
+Yohei Tahara
+Julien Diard
+Andreas Maier
+Jin Li
+Yu Ting Yeung
+Tomoyasu Komori
+Ralf Schlüter ; RWTH Aachen
+Peer Kröger
+Iuliia Nigmatulina
+Mohan Li
+Jean-Luc Schwartz
+Xiao Chen
+Dong Wang
+Fei Teng
+Kailash Gopalakrishnan
+Wai-Kim Leung
+Andrea Cavallaro
+Fethi Bougares
+Valentin Gabeur
+Erica Cooper
+Shiyu Chang
+Yuxiao Lin
+Charl Van Heerden
+Mihir Kale
+Osvaldo Simeone
+Mihiro Uchida
+Tao Wei
+Wei-Lun Wu
+Sanjeev Khudanpur ; JHU
+Tobias Wolff
+Pablo Hoffmann
+Wen-Chin Huang
+Sujay Kumar
+Erik Mcdermott
+Georgina Brown
+Minhao Yang
+Haiwei Dong
+Mingyu Cui
+Nick Jutila
+Silke Hamann
+Owen Mconyango
+Frank Zhang
+Zhiqiang Zhuang
+Nick J.C. Wang
+Pawel Swietojanski
+Aditya Yadavalli
+Patricia Lillo
+William M. Campbell
+Gopala Krishna Anumanchipalli
+Siqing Qin
+Abhishek Pandey
+Karthik Ganesan
+Piotr Chlebek
+Jason Riesa
+Darius Petermann
+Ruturaj Ghatage
+Shota Orihashi
+Rui Liu
+Pavlos Papadopoulos
+Ali Safaya
+Aijun Sun
+Dong Yu
+Lei Wang
+Yuying Xie
+Nidal Moukaddam
+Bhiksha Raj ; CMU
+Chloé Clavel
+Giuseppe Magistro
+Siddharth Dalmia
+Adrien Pupier
+Dan Su
+Sumedh Sontakke
+Holy Lovenia
+Chris Basoglu
+Yao Lu
+Yeonjin Cho
+Liping Deng
+Gobinda Saha
+Martin Claus
+Julian Mcglashan
+Shigeki Sagayama
+Rui Xia
+Fangzhen Peng
+Simon Vogrin
+Lin Yang
+Sepand Mavandadi
+David Rybach; Google
+Atsunori Ogawa; NTT
+Prasanta Kumar Ghosh
+Long Lin
+Theresa Breiner
+Jun Zhang
+Dongxing Xu
+M. Humayan Kobir
+Pravin Mote
+Xinyu Zhang
+Zhongzhi Yu
+Jeongkyun Park
+Peilin Yang
+Wang Weiran
+Siliang Tang
+Hao Li
+Catherine Breslin
+Dyah Damapuspita
+Cmu
+Deng Cai
+Jin-Seong Choi
+Yi Liu
+Hui Gao
+Will Rieger
+Farhad Goodarzy
+Ji-Hwan Mo
+Juho Leinonen
+Yuhang Cao
+Amir Hussein
+Anish Bhanushali
+Mauricio Serrano
+Mudit D. Batra
+Quan Vuong
+Yang Lu
+Radu Timofte
+Yuchen Hu
+Andros Tjandra
+Stefan Wermter
+Dan Berrebbi
+Yan Zhang
+Kevin Meng
+Yuan Shangguan
+Chenfeng Miao
+Jeremy Heng Meng Wong
+Ayimnisagul Ablimit
+Haizhou Li ; CHUKSZ
+Ravi Teja Gadde
+Marin Schröer
+Jonathan J. Macoskey
+Nobuaki Minematsu
+Szu-Jui Chen
+Leibny Paola Garcia Perera
+Yuexian Zou
+Benard Okal
+Mahmoud Safari
+Shuta Taniguchi
+Kaizhi Qian
+Mikko Kurimo
+Xunying Liu; CUHK
+Vishwanath Pratap Singh
+Ted Xiao
+Zhaohui Wang
+Zili Huang
+Yuya Fujita ; 1Yahoo
+Shuhao Deng
+Frederic Assal
+Hao Yang
+Juan Zuluaga-Gomez
+Sebastian Ruder
+Patrick Krüger
+Issac Alphonso
+Van Nguyen
+Lia Saki Bučar Shigemori
+Nancy Chen
+Fareeha S. Rana
+Ashish Panda
+Robert David
+Oliver Guhr
+Onoe Naoyuki
+Preethi Jyothi; IITB
+Munhak Lee
+Zhong Meng Msr
+Siddarth C
+Shilei Zhang
+Jinxi Guo
+Austin Stone
+Zejun Ma; ByteDance
+Aaron Yi Ding
+Wenhui Wang
+Pavel Kolčárek
+Eng Siong Chng
+Wiebke Toussaint
+Harsha Yelchuri
+Wen Ding
+Jinkun Chen
+Hongyu Gong
+Bahman Mirheidari
+Shuo-Yiin Chang; Google
+Xiaofei Wang
+Adnan Haider
+Tinglong Liao
+Michel Plüss
+Raphael Tang
+Dinh Phung
+Shaoming Song
+N. Benjamin Erichson
+Pratik Kumar
+Trevor Cohen
+Ryu Takeda
+Ashutosh Pandey
+Animesh Jain
 Audrey Tong
-Zhenlin Liang
+Yuanzhe Chen
+Zengwei Yao
+Jiedan Zhu
+Ferdy Hubers
+Yi Wang
+Rui Wang
+Pradip Pramanick
+Chao-Han Huck Yang
+Jun Hwan Ahn
+Lijinyu
+Volker Dellwo
+Zhaoxu Nian
+Xin Zhou
+Xin Ye
+Thien Nguyen
+Pierre Andrews
+Yanlu Xie
+Ao Zhang
+Andreas Schwarz
+Daniel Povey
+Haoyu Wang
+Ailbhe Ní Chasaide
+Jianhua Tao
+Yu Suzuki
+Ju-Seok Seong
+Rohit Barnwal
+Qiumin Xu
+Mireia Diez
+Lara Orlandic
+Zongyu Lin
+Gasper Begus
+Zhou Yang
+Boris Bergsma
+Kavya Manohar
+Esther Kunay
+Zhaojiang Lin
+Guoli Ye
+Ognjen Rudovic
 Wenjing Han
+Michael L. Seltzer; MetaAI
+Amy Shah
+Ye Bai
+Zhilin Yang
+Hongbin Suo
+Kaushik Roy
+Marvin Lavechin
+Pilsung Kang
+Chunyang Wu
+Koji Inoue
+Biing Juang
+Cheng Chen
+Jiyi Li
+Chaitanya Prasad Narisetty
+Yanfen Tang
+Pierre Beckmann
+Ryandito Diandaru
+Cecilia Mascolo
+Binghuai Lin
+Jaesong Lee
+Vishal Sunder
+Hieu Duy Nguyen
+Qinlong Huang
+Liqun Deng
+Sapan Patel
+Florian L. Kreyssig
+Ronan Collobert
+Simon Wiesler
+Alex Irpan
+Jiaming Wang
+Chengqing Zong
+Wenliang Dai
 Jingren Zhou
 Barack Wanjawa
-Shuai Zhang
-Martin Radfar
-Feilong Chen
-De Hu
-Fethi Bougares
-Nicolás Serrano
-Lena Pagel
-Sang-Eon Lee
-Ian Mcgraw
-Nobuyuki Morioka
-Lei Sha
-Nick J.C. Wang
-Ailbhe Ní Chasaide
-Kevin Everson
-Chelsea Krantsevich
-Yinglin Ji
-Patricia Lillo
-Roeland Van Hout
-Zeyu Cui
-Yuhui Wang
-Naoko Tanji
-Electra Wallington
-Stefano Goria
-Qing Zhao
-Natalie Delworth
-Seung Hee Yang
-Lan Du
-Shota Orihashi
-Sri Harsha Dumpala
-Jintao Jiang
-Dongji Gao
-Jing Zhang
-Sanjeev Khudanpur ; JHU
-Ali Siahkoohi
-Animesh Jain
-Jan Cernocky
-Yuqin Lin
-Ma Zejun
-Xiaodong Cui
-Maja Pantic
-Samuel Cahyawijaya
-Hanan Aldarmaki
-Jinfeng Bai
-Junan Li
-Tao Jiang
-Chloé Chopin
-Debjyoti Paul
-Dan Su
-Yong Man Ro
-David Lo
-Minghui Wu
-Igor Mordatch
-Erik Mcdermott
-Frank Seide
-Bo Long
-Aurora Saibene
-Takuya Kunihara
-Séverine Guillaume
-Joon-Hyuk Chang
-Milos Cernak
-Quentin Meeus
-Grant P. Strimel
-Zhongqin Wu; Horizon
-Siddharth Dalmia
-Menglong Xu
-Patrick Krüger
-Pablo Hoffmann
-Shijun Wang
-Parvaneh Janbakhshi
-Desh Raj
-Ted Xiao
-Sei Ueno
-Yanzhang He; Google
-Jinyu Li; MSR
-Atsushi Fukayama
-Takashi Fukuda ; IBM
-Rama Doddipatla; Toshiba
-Eleanor Chodroff
-Corentin Puffay
-Shira Hahn
-Anuj Diwan
-Huayun Zhang
-Louis Goldstein
-Jae-Hong Lee
-Alexander Gerstenberger
-Ganesh Ramakrishnan
-Sandra Schwab
-Xin Zhang
-Xiaofen Xing
-Joanna Hong
-Yonghong Yan ; CAS
-Qi Liu
-Xiao Song
-Sameer Bidichandani
-Morgane Rivière
-Jingjing Xu
-Preethi Jyothi ; IITB
-Juan Pino
-Min Tang
-Dinesh Manocha
-Kaspar Müller
-Chia-Yu Chen
-Sarah Anne Tao
-Alex Xiao
-Barbara Schuppler
-Peilin Zhou
-Boris Ginsburg ; Nvidia
-Mark Hasegawa-Johnson
-Ichwanul Muslim Karo Karo
-Haizhou Li; CHUKSZ
-Jieun Song
-Felix Kreuk
-Shuo-Yiin Chang; Google
-Foteini Liwicki
-Thierry Pham
-Wenjie Liu
-Junjie Wang
-Roddy Fuentes Alba
-Gary Wang
-Gobinda Saha
-Mana Ihori
-Ye Bai
-Rwth Aachen
-José A. R. Fonollosa
-Roberto Barra-Chicote
-Guillaume Jacques
-Wang Weiran
-Masayuki Suzuki; IBM
-Gordon Wichern
-Muhammad Farid Adilazuarda
-Jodilyn Peralta
-Kuan Po Huang
-Zezhong Jin
-Zheng-Hua Tan
-Katrina Kechun Li
-Jun Wang
-Isabel Leal
-Ruoyu Wang
-Sahar Ghannay
-Yeqian Du
-Vineet Garg
-Izhak Shafran
-Gakuto Kurata; IBM
-Jiedan Zhu
-Ali Safaya
-Mohan Li
-Seong-Hwan Heo
-Shiquan Wang
-Benjamin Lecouteux
-Chao Zhang
-Ming Tu
-Claudia Crocco
-Jordi Luque
-Sishi Liao
-Furu Wei ; MSRA
-Qiantong Xu
-Mete Ozay
-Bidisha Sharma
-Qiang Zhang
-Ding Zhao
-Yifan Sun
-Peer Kröger
-Yufeng Tang
-Fei Zuo
-Jinsong Zhang
-Masato Mimura
-Alexa; Jasha
-Hao Li
-Ashish Panda
-Xubo Liu
-Yuehai Wang
-Sharvi Endait
-Sadhana Gonuguntla
-Rongjun Li
-Roger Hsiao
-Lei Xie; NPU
-Erica Cooper
-Ilham Firdausi Putra
-Christophe Cerisara
-Long Zhou
-Isabel Trancoso
-Theresa Breiner
-Michal Kula
-Christian Osendorfer
-Masato Murata
-Holy Lovenia
-Peter Birkholz
-Junjie Wen
-Cong Liu ; iFLYTEK
-Tomas Arias
-Hexin Liu
-Srikanth Korse
-Ryota Nishimura ; Toku.
-Fumio Nihei
-Quan Vuong
-Cong Liu; iFLYTEK
-Christoph Wagner
-Georgina Brown
-Zhendong Peng ; WeNet
-Andrea Alicehajic
-Elizabeth Buchanan-Worster
-Venkata Srikanth Nallanthighal
-Jean-Louis Nandrino
-Lei Liu; CUHK.SZ
-Emiru Tsunoo
-Junbo Zhang
-Toshiki Onishi
-Katsuhito Sudoh
-Vinicius Ribeiro
-Manos Plitsis
-Guanglai Gao
-Jong-Hyeok Lee
-Jörn Ostermann
-Ke Hu
-Abhinav Goyal
-Youxiang Zhu
-Kanghao Zhang
-Aku Rouhe
-Shoei Sato
-Lawrence Muchemi
-Chen Xie
-Made Nindyatama Nityasya
-Cheng-I Lai
-Herry Sujaini
-Ye Wang
-Fan Yu
-Feng-Ju Chang
-Chris Basoglu
-Jiakai Zou
-Adel Nabli
-Jay F. Buzhardt
-Nurmemet Yolwas
-Nan Yan
-Guillaume Fuchs
-Long Ma; Tencent
-Haihua Xu
-Ryan Julian
-Zhiyun Lu
-Sharman Tan
-Vrunda Sukhadia
-Ziyang Zhuang
-João Vítor Possamai De Menezes
-Zhuohuang Zhang
-Rachid Ridouane
-Bo Xu
-Lauriane Gorce
-Pranay Manocha
-Paola Garcia
-Junho Park
-Yan Yu
-Ferdy Hubers
-Pu Wang
-Jiatong Shi
-Elisabet Service
-Ta Duc Huy
-Nikhil Siddhartha‎
-Microsoft
-Jian Xue
-David Moeljadi
-Lee Hungyi
-Reinhold Haeb-Umbach
-Farhad Goodarzy
-Martine Adda-Decker
-Shilei Zhang
-Chen Wang
-Xingchen Song
-Runyan Yang
-Shankar Kumar
-Yukun Qian
-Ognjen Rudovic
-Zhizhong Ma
-Daan Van Esch
-Hae-Sung Jeon
-Mickael Rigault
-Hui Zhang
-Chao-Han Huck Yang
-Olivier Siohan
-Carol Espy-Wilson
-Zhichao Wang
-Felix Meyer
-Joseph Keshet
-Yuping Wang
-Niko Moritz
-Shulin He
-Zhen Huang
-Tomasz Rutowski
-Alexandre Tkatchenko
-Atsunori Ogawa ; NTT
-Vamsi Krishna Ithapu
-Andros Tjandra
-Zhiliang Peng
-Anil Kumar Vuppala
-Mostafa Sadeghi
-Philip C. Woodland
-Felix Wu
-Alec Radford
-Muhammad Umar Farooq
-Tatsuya Kawahara
-Jeremy Steffman
-Genta Indra Winata
-Caixia Gong
-Helen L. Fisher
-Eunsol Choi
-Yukun Liu
-Genshun Wan
-Jae-Jin Jeon
-Prashant Sridhar ; ASAPP
-Chaitanya Prasad Narisetty
-Hongan Wang
-Jonathan Flint
-Tara N. Sainath
-Parisa Haghani
-Orhan Firat
-Yan Zhao
-Yi Zhan
-Zhongqiang Huang
-Christophe Servan
-Bhiksha Raj ; CMU
-Dyah Damapuspita
-Frank Zhang
-Lori Lamel
-Jianxin Pang
-Zhaohui Wang
-Barun Patra
-Dhanush Bekal
-Pengcheng Guo
-Shalini Ghosh
-Shinnosuke Takamichi
-Richard Rose
-Sen Yoshida
-Siqi Li
-Baohua Xu
-Shou-Chun Yin
-Nathalie Leveque
-Jean-Philippe Goldman
-Andy W. H. Khong
-Tsuneo Kato
-Donggyun Han
-Kirandevraj R
-Jingyu Hou
-Srikanth Ronanki
-Ivana Nikoloska
-Shuhao Deng
-Bishal Lamichhane
-Xinjian Li
-Karol Nowakowski
-Kyu J. Han ; ASAPP
-Zeyang Song
-I-Chun Chern
-Akshat Pandey
-May Pik Yu Chan
-Samik Sadhu
-Elizabeth Shriberg
-Yossi Adi
-Jakob Poncelet
-Christian Scheller
-Shakti Rath
-Raphael Tang
-Kenkichi Ishizuka
-Peidong Wang
-Wenqing Wei
-Yannick Estève ; LIA-Avignon
-Tie-Yan Liu
-Yang Liu
-Robert David
-Jiřı́ Martı́Nek
-Alice Biryukov
-Shun-Po Chuang
-Lingxuan Ye
-Trang Tran
-Hao Ni
-Odette Scharenborg
-Thomas Elsken
-François Remy
-Dongxing Xu
-Zhe Zhang
-Amrit Romana
-Tsinghua; xiaojing
 Dan Wells
-Wafaa F. Mukhtar
-Dan Berrebbi
-Laura Spinu
-Jun Ma
-Igor Szöke
-Satwik Dutta
-Haolin Zuo
-Wei-Qiang Zhang
-Supreeth Rao
-Alexander Mainka
-Md. Mushtaq Shahriyar Rafee
-Lei Wang
-Xiao Wei
-Kanishka Rao
-Chloé Clavel
-Yao Qian ; MS
-Dmitry Kalashnikov
-Koichi Miyazaki
-Lucas Rafael Stefanel Gris
-Ji Sub Um
-Ruchao Fan
-Daniel Povey
-Sunghwan Ahn
-Tara Sainath ; Google
-Ching-Feng Yeh
-Athanasia–Lida Dimou
-Di Wu
-Zeyu Jin
-Xiaohui Liang
-Qinlong Huang
-Chuanzeng Huang
-Xiaoming Zhang
-Lyan Verwimp
-Zhuoye Ding
-Ju Zhang
-Masaya Ohagi
-Osbel López-Francisco
-Naoyuki Kanda
-Guillaume Wisniewski
-Atsunori Ogawa; NTT
-Feng Wang
-Xiangmin Xu
-Yao Lu
-Xiao Chen
-Nilaksh Das
-Lilian Wanzare
-Alejandrina Cristia
-Boris Ginsburg; Nvidia
-Ruying Bao
-Subhashini Venugopalan
-Yang Lu
-Hynek Hermansky ; JHU
-Hongyu Xiang
-Fangjun Kuang
-Emmanuel Dupoux
-Robert M. Roth
-Changye Li
-Zengwei Yao
-Nathalie Tran
-Rajeev Rajan
-Shangeth Rajaa
-Yan Wang
-Yujun Wang
-Kevin Sayed
-Michal Ptaszynski
-Yulianti Oenang
-Liangyou Li
-Guan-Ting Lin
-Jan Skoglund
-Arnab Ghoshal
-Ali Yazdani
-Kentaro Shibata
-Yuchen Hu
-Yu Suzuki
-Michael Seltzer
-Shuhan Yuan
-Takuya Yoshioka
-Simon Vogrin
-Thomas Arildsen
-Xing Ma
-Hamed Hemati
-Karel Beneš
-Qingyu Wang
-Tielin Zhang
-Naman Goyal
-Hao Huang; Xinjiang
-Xiaoyu Yang
-Laurent Besacier
-Chin-Yueh Chien
-Matthew Perez
-Elmar Noeth
-Kengo Ohta
-Yan Zhang
-Luboš Šmídl
-Jeff Farris
-Shammur Absar Chowdhury
-Lodagala V. S. V. Durga Prasad
-Zongyu Lin
-Kun Wei
-Xiaohui Zhang
-Josef Baloun
-Biing Juang
-Helen Meng ; CUHK
-Weiran Wang
-Longyu Zhang
-Ananya Misra
-Shiyu Zhou
-Oumnia Chellah
-Ravi Teja Gadde
-Arsha Nagrani
-Colin White
-Tang Li
-Alexei V. Ivanov
-Yanmin Qian
-Catherine Breslin
-Bowen Shi
-Zaharah Bukhsh
-Mayumi Ohta
-Ebbie Awino
-Kavan Fatehi
-Yanfen Tang
-Rao Ma
-Yanzhang He ; Google
-Xin Gao
-Wonkee Lee
-Jian Wu
-Mathilde Hutin
-Teena Tom Dieck
-Xiaoxiao Miao
-Clara Rivera
-Madhuri Emmadi
-Dhananjaya Gowda
-Haohe Liu
-Brian Kingsbury ; IBM
-Guolong Zhong
-Keiko Ochi
-Mingyu Cui
-Oliver Guhr
-Jinxi Guo
-Alexandros Haliassos
-Abeer Alwan
-Simon Wiesler
-Holam Chung
-Ke Wu
-Sakriani Sakti
-Jingjing Yin
-Mark Huckvale
-Duc Le
-Weibin Zhang
-Shuai Nie
-Yan Jia
-Chin-Hui Lee
-Jinming Zhao
-Walter Heymans
-Alexei Baevski
-Wei Luo
-Xiaodan Zhuang
-Stuttgart
-Supratik Bhattacharya
-Junwen Bai
-Shammur Chowdhury
-Longbiao Wang
-Tan Xu; MSRA
-Tatsuya Kitamura
-Zhongzhi Yu
-Kevin Crews
-Golan Pundak
-Kwangyoun Kim
-Ronit Damania
-Mingchao Feng
-Yanhua Long
-Ankur Gandhe
-Emilia Molimpakis
-Jan Svec
-Yerbolat Khassanov
-Yanmeng Wang
-Keith Stevens
-Alham Fikri Aji
-Jiaxin Li
-Shuta Ichimura
-Allan Tart
-Yu Bai
-Sudarsana Reddy Kadiri
-Takahiro Aizawa
-Rohit Barnwal
-Mingshuang Luo
-Zecheng Wang
-Vinod Kumar Kurmi
-Wei Kang
-Zhengjun Yue
-Vrunda Nileshkumar Sukhadia
-Chen Huang
-Yuya Fujita ; 1Yahoo
-Gefei Yang
-Utsav Malla
-Ta Li1 ; CAS
-Perez Ogayo
-Zehui Yang
-Taihao Li
-Sheng Zhao
-Zixiu Wu
-Cuk Tho
-Talia Ben Simon
-Padma Varadharajan
-Paul-Ambroise Duquenne
-Xuedong Zhang
-Emilia Gomez
-Wu Guo
-Zhifu Gao
-Ann Lee
-Huong Tran
-Florian Hönig
-Xiao-Lei Zhang
-Takahiro Shinozaki; TIT
-Ruihua Song
-Vincent Vanhoucke
-Paul Magron
-Ales Prazak
-Siliang Tang
-Naoki Makishima
-Bingshuai Li
-Richard Cave
-Herve Bourlard; EPFL
-Mireia Farrús
-Fei Xia
-Nicola Pia
-Sibel Oyman
-Yasser Shekofteh
-Dogan Can
-Christoph Boeddeker
-Jing Zhao
-Shinji Watanabe ; CMU
-Chuyu Huang
-Wei Li
-Michael Picheny
-Yu Nakagome
-Lin Li
-Shaojun Gao
-Mohan Shi
-Sanae Matsui
-Kyosuke Nishida
-Zhilin Yang
-Binghuai Lin
-Shinsuke Sakai
-Sanli Tian
-Felix Weninger
-Rama Sanand Doddipatla
-Alexa ; Jasha
-Sotheara Leang
-Nick Kibre
-Brian Yan
-Shujie Liu ; MSRA
-Kak Soky
-Zhaojiang Lin
-Grant Theron
-Alice E. A. Allen
-Emmanuel Vincent
-Jing Shao
-David Rybach; Google
-Erik Marchi
-Philip N. Garner ; Idiap
-Hung-Shin Lee
-Srikanth Madikeri
-Nauman Dawalatabad
-Ruturaj Ghatage
-Chandra Dhir
-Hirofumi Inaguma
-Mahmoud Safari
-Andrea Fasoli
-Ke Li
-Yinchuan Li
-Adrien Pupier
-Nikesh Garera
-Yumei Zhou
-Cong-Thanh Do
-Leyuan Qu
-Karun Kumar
-Haeyoung Kwon
-Sichun Xu
-Stavros Petridis
-Agnieszka Dobrowolska
-Puneet Mathur
-Ashish Shenoy
-Anupam Singh
-Bronya Roni Chernyak
-Hieu Nguyen
-Simon Stone
-Jia Pan; iFLYTEK
-Li Dong
-Makoto Iwayama
-Wanyu Li
-Sageev Oore
-Takanori Ashihara
-Zhehuai Chen; Google
-Woosung Choi
-Vijay Ravi
-Philipp Buech
-Somshubra Majumdar ; Nvidia
-Jianjing Kuang
-Pradip Pramanick
-Tomoyasu Komori
-Matheus Damasceno
-Chen Sun
-Brechtje Post
-Satoshi Nakamura
-Maziar Goudarzi
-Rama Doddipatla ; Toshiba
-Abu Zaher Md Faridee
-Katunobu Itou
-Yuxiao Lin
-Da-Wei Zhou
-Ji-Hwan Mo
-Michael W. Mahoney
-Rui Xia
-Catherine Lai
-Hidenori Yamasue
-Wei Han
-Cheng Chen
-Jinyu Li ; MSR
-Gerasimos Chatzoudis
-Chu-Xiao Zuo
-Meng Cai
-Marcelo Matheus Gauy
-Fuping Pan ; Horizon
-Juho Leinonen
-Shefali Garg
-Harsha Yelchuri
-Zhong Li
-Thomas Niesler
-Wolfgang Macherey
-Sebastian P. Bayerl
-Ankur Bapna ; Google
-Cmu
-Neil Scheidwasser-Clow
-Shoukang Hu
-Yuxuan Xi
-Naokazu Uchida
-Yutong Pang
-Xueliang Zhang
-Jung-Wook Hwang
-Jonathan Amith
-Fan Cui
-Xuankai Chang
-Jindong Wang ; MSRA
-Helen Minnis
-Saksham Singhal
-Heqing Zou
-Lei Liu ; CUHK.SZ
-Oleg Rybakov
-Hamid Reza Hassanzadeh
-Julian Linke
-Aws
-Kaiqi Zhao
-Swetha R. Gangu
-De-Chuan Zhan
-Xun Wang
-Guoli Ye
-Aijun Sun
-Xun Gong
-Saurabh Adya
-Li Liu; CUHK.SZ
-Haizhou Li ; CHUKSZ
-Yosuke Kashiwagi
-N. Benjamin Erichson
-Hoang Thi Thu Uyen
-Guilherme Schu
-Lin Yang
-Jan Švec
-Guru Prakash
-Julian Ibarz
-Martin Kocour
-Zhiyong Yan
-Hamdy Mubarak
-Peng Zhang
-Liangchen Wei
-Ishwarya Ananthabhotla
-Jie Li
-Jun Li
-Peng Gao
-Mauricio Serrano
-Rodrigo Schoburg Carrillo De Mira
-Edward Lin
-Wenyong Huang
-Shihab Shamma
-Ondřej Klejch
-Soon Hoe Lim
-Helena Cuesta
-Sergey Levine
-Ralf Schluter; AppTek
-Edward Ombui
-Junjie Lai
-Shuyan Dong
-Ralf Schlüter; RWTH Aachen
-Nicholas Cummins
-William M. Campbell
-Seungkwon Beack
-Christian Wibisono
-Sanyuan Chen
-Efthymios Georgiou
-Shaoming Song
-Zhijie Yan
-Prasanta Kumar Ghosh
-Vera Bernhard
-Pilsung Kang
-Thomas Hain
-Aletheia Cui
-Wonyong Sung ; Seoul SNU
-Chanwoo Kim
-Mihiro Uchida
-Nicola Ferri
-Yi-Kai Zhang
-Ryo Ishii
-Lia Saki Bučar Shigemori
-Peng Su
-Keqi Deng
-Yuki Takashima
-Junpeng Liu
-Tsinghua ; xiaojing
-Doris Muecke
-Alex Irpan
-Samsul Rahmadani
-Nidal Moukaddam
-Bo Li
-Fahad Shahbaz Khan
-Wen-Chin Huang
-Sylvain Detey
-Yuan Zhang
-Vera Axelrod
-Alan W Black
-Han-Jia Ye
-Jisi Zhang
-Adam Finkelstein
-Amrith Krishna
-Jongmo Sung
-Divesh Lala
-Ryu Takeda
-Spyridoula Stamouli
-Ashtosh Sapru
-Chul Lee
-Ngoc-Quan Pham
-Xiaofu Chen
-Roland Maas ; JHU
-Prashant Sridhar; ASAPP
-Yeonghyeon Lee
-Dading Zhong
-Hao Huang ; Xinjiang
-Sunayana Sitaram
-Noriko Nakanishi
-Xue Jiang
-Shaoxing Zhang
-Pratik Kumar
-Jean-Luc Schwartz
-Tao Qin
-Herman Kamper
-Mohd Abbas Zaidi
-Daniel S. Park ; Google
-Mian Ma
-Zitha Sasindran
-Qingcheng Zeng
-Sapan Patel
-Jennifer Santoso
-Zhan Zhang
-Manila Kodali
-Chitralekha Bhat
-Nam Soo Kim
-Kiyoshi Honda
-Otavio Braga
-Wei Zhou ; RWTH Aachen
-Chyi-Jiunn Lin
-Yi He
-Google
-Arie Ardiyanti Suryani
-Yizhou Sun
-Craig Murray
-Jaspiar Singh
-Sarthak Yadav
-Hannaneh B. Pasandi
-Nobuaki Minematsu
-David Rybach ; Google
-Piyush Behre
-Chao Xing
-Fangzhu Li
-Aleksandr Laptev
-Yoshua Bengio
-Fadi Biadsy
-Tomoki Koriyama
-Yifan Gong ; MSR
-Mark Gales
-Jia-Yi Leng
-Bach Bui
-Kaitao Song
-Issac Alphanso
-Maria Del Mar Cordero
-Yunfeng Shao
-Tongtong Wu
-Yangyang Shi
-Geoffrey Liu
-Zhe Liu
-Daniele Riboni
-Heguang Liu
-Jeremy Heng Meng Wong
-Xiang-Yang Li
-Benard Okal
-Fanny Degouis
-Longfei Yang
-Nancy Chen
-Jiacheng Xu
-Jacob C. Reyna
-Hang Liu
-Jin Li
-Tongzhou Chen
-Seo-Hyun Lee
-Wei Peng
-Olabanji Shonibare
-Murugesan Ramakrishnan
-Stephen Daniel Looney
-Brian Ichter
-Donald Williamson
-Mirek Novak
-Mirko Hannemann
-Jornell Quiambao
-Xixin Wu
-Yonggan Fu
-Yutian Li
-Qun Liu
-Eleftherios Kapelonis
-Andrea Slachevsky
-Yifan Gong; MSR
-Shinji Watanabe; CMU
-C.S. Ramalingam
-Manami Hirayama
-Yoshihiro Yamazaki
-Yike Zhang
-Michele Schimd
-Tassadaq Hussain
-Ju-Seok Seong
-Mikolaj Kegler
-Lena L.N. Wong
-Jessica Nguyen
-Aaqib Saeed
-Diana Nguyen
-Leibny Paola Garcia Perera
-Xiaohuan Zhou
-Mingqiu Wang
-Leda Sari
-Eric Castelli
-Wai-Kim Leung
-Ning Jiang
-Ihsan Ayyub Qazi
-Somshubra Majumdar; Nvidia
-Yuanzhe Chen
-Pedro Moreno; Google
-Jasper Hong Sim
-Zhongfu Ye
-M. Firoz Ahmed
-Wenhui Wang
-Petr Motlicek
-Ehsan Variani ; Google
-Qiumin Xu
-Lam Tran
-Xiaoxiao Li
-Zi Ye
-Shen Huang
-Rae-Hong Park
-Weidong Chen
-Shatrughan Singh
-Dario Albesano
-Qingtao Li
-Jonathan Clark
-Peiqi Liu
-Stephen Nichols
-Engin Erzin
-Brianna Zitkovich
-Ambre Denis-Noël
-Kate Knill
-Huseyin Atakan Varol
-James Jaya
-Hiroshi Sato
-Swaraj Dalmia
-Yingbo Gao
-Saurabh Kumar
-Chong Luo
-Jianwu Dang ; Tianjin
-Marc Delcroix; NTT
-Rodrigo Mira
-Sarah Campbell
-Peter Skala
-Yu-Kuan Fu
-Takaaki Hori
-Abhinav Rastogi
-Karlsruhe Germany
-Yufei Liu
-Qiu-Shi Zhu
-Vipula Dissanayake
-Ryan Ignatius
-Vishrav Chaudhary
-Gakuto Kurata ; IBM
-Elika Bergelson
-Athanasios Katsamanis
-Dirk Plettemeier
-Cyril Allauzen
-Tim Polzehl
-Chenhui Chu
-Tohru Nagano ; IBM
-Catia Cucchiarini
-Chelsea Finn
-Alex Park
-Simon Roessig
-Apptek
-Björn Hoffmeister
-Fajri Koto
-Paavo Alku
-Xia Zhang
-Wilfried Michel
-Tomoya Mizumoto
-Margaret Zellers
-Rohit Prabhavalkar; Google
-Xingshan Zeng
-Sangha Kim
-Ladislav Lenc
-Kartik Audhkhasi
-Cahya Wirawan
-Trevor Cohen
-Muhammad Hilmi Asyrofi
-Javad Peymanfard
-Paul Calamia
-Jovan M. Dalhouse
-Vyas Raina
-Keiji Yasuda
-Yu Shi
-Zoran Cvetkovic
-Sandeep Konam
-Mingda Chen
-Ashutosh Pandey
-Junliang Guo
-Franz Pernkopf
-Andre Bittar
-Francesca Gasparini
-Ralf Schluter ; AppTek
-Pouriya Amini Digehsara
-Huang Hu
-Núria Bel
-Ilya Oparin
-Yuchen Liu
-Zejun Ma; ByteDance
-Szu-Jui Chen
-Takao Nakamura
-Gopala Krishna Anumanchipalli
-Mi Hong
-Ralf Schlüter ; RWTH Aachen
-Minsu Kim
-Jeehye Lee
-Gasser Elbanna
-Liping Deng
-Binxin Ru
-Sravan Bodapati
-Mari Ostendorf
-Guangzhi Sun
-Wassim El-Hajj
-Henry Mason
-Kangwook Jang
-Melissa Saboowala
-Thomas R. O'Malley
-M. Shahidur Rahman
-Nicholas Lane
-Shuping Tan
-Yu Zhang ; Google
-Evelina Bakhturina
-Mudit Batra
-Björn W. Schuller
-Tim Ng
-Satwinder Singh
-Sharu Theresa Jose
-Kyunghyun Cho
-Valentin Mendelev
-Karthikeyan Saravanan
-Nicolas Audibert
-Yan Xu
-Verdiana De Fino
-Marvin Lavechin
-Emil Berger
-Hagen Soltau
-Lauren Harrel
-Kun Zou
-Gayadhar Pradhan
-Aini Li
-Jianwu Dang; Tianjin
-Anderson R. Avila
-Dading Chong
-Raphael Olivier
-Suranga Nanayakkara
-Yeonjin Cho
-Michaela Pernon
-Jong Wook Kim
-Shaojun Wang
-Veerdhawal Pande
-Eda Okur
-Meng Chen
-Yuan You
-Julie Liss
-Alberto Abad
-Fei Jia
-Mingjiang Wang
-Satoshi Suzuki
-Amir Hussain
-Diego Reforgiato Recupero
-Katsumasa Yoshikawa
-Vitaly Lavrukhin ; Nvidia
-Nikhil J Joshi
-Adria Mallol-Ragolta
-Debottam Dutta
-Pawan Goyal
-Hui Bu
-Hongyu Gong
-Tsubasa Ochiai; NTT
-Jan Østergaard
-Can Xu
-Cheung Chi Leung
-Shiliang Zhang
-Saida Mussakhojayeva
-Beier Zhu
-Tommaso Ciulli
-Sujay Kumar
-Benoît Sagot
-Gil Keren
-Rebecca Elizabeth Hacker
-Bryan Anderson
-Marc Delcroix ; NTT
-Nick Jutila
-Heli Qi
-Zhihao Du
-Yongjie Lv
-Puming Zhan
-Jianhua Tao
-Muqiao Yang
-Wei Wu
-Liyong Guo
-Guanglu Wan
-Arun Narayanan
-Martin Sustek
-Titouan Parcollet
-Zhouwang Yang ; USTC
-Tarun Sai Bandarupalli
-Jonathan Harrington
-Hongbin Suo
-Prof. Dd Kadam
-Marin Schröer
-Pengyuan Zhang ; CAS
-Nirmesh Shah
-Erik Visser
-Mathieu Martel
-Qian Ge
-Thomas Lukasiewicz
-Yik-Cheung Tam
-Darius Petermann
-Yangyang Ou
-Eva Sharma
-Nicolaea Catalin Ristea
-Khalil Bibi
-Patrick Von Platen
-Zhouwang Yang; USTC
-Ting Dang
-Xie Chen
-Vishwanath Pratap Singh
-Li Liu ; CUHK.SZ
-Reem Gody
-Simran Khanuja
-Jiangyu Han
-Qiang Xu
-Vinícius G. Dos Santos
-Yael Segal
-Gabriel Roccabruna
-Ferhan Ture
-Xianchao Wu
-Rui Liu
-Helen Meng; CUHK
-Hynek Hermansky; JHU
-Yuhang Cao
-Sewade Ogun
-Jagna Nieuważny
-Nasser Mozayani
-Kohei Matsuura
-Liang-Hsuan Tseng
-Wenyuan Xu
-Hanchu Zhang
-Hagai Aronowitz
-Saurav Sahay
-Shuta Taniguchi
-Abner Hernandez
-Tan Liu
-Marco Dinarelli
-Yasheng Wang
-Lara Orlandic
-Daniel Zhang
-Mark Liberman
-Julien Epps
-Li-Zhuang Yang
-Mandar Gogate
-Jingjing Dong
-Markus Multrus
-Kaiqi Fu
-Andrew Hard
-Anissa Gladney
-Samin Heydarian
-Hervé Bredin
-Simon De Wergifosse
-Debarpan Bhattacharya
-Marli Quadros Leite
-Bin Ma
-Gerard I. Gállego
-Yufeng Yang
-Ahmed Tewfik
-Deepak Mittal
-Yonghong Yan; CAS
-Michael L. Seltzer ; MetaAI
-Zixun Guo
-Youngcheol Park
-Abdul Hameed Azeemi
-Helin Wang
-Hao Shi
-Eesung Kim
-Lirong Dai ; USTC
-Rongmei Lin
-Laurent El Shafey
-Kumarmanas Nethil
-Fujie Zhang
-Lama Nachman
-Christian Fuegen
-Jonas Vanthornhout
-Yoshihiko Kawai
-Tomohiro Tanaka
-Hengshun Zhou
-Mikko Kurimo
-Marta R. Costa-Jussà
-Ade Romadhony
-Rishabh Kumar
-Yu-Chen Hu
-Rong Tong
-Trevor Strohman; Google
-Youzheng Wu ; JD
-Jan Černocký
-Nan Li
-Devaraja Adiga
-Ankur Bapna; Google
-Vladislav Belyaev
-Shafkat Kibria
-Lukas Neukom
-Mohamed Ali
-Ming Liu
-Dong-Hyun Kim
-Gianfranco Bilardi
-Rahil Parikh
-Takashi Maekaku
-Yong Cheng
-Daniel Korzekwa
-Harini Kesavamoorthy
-Katsutoshi Itoyama
-Dirk Voit
-Jasha Droppo ; Alexa
-Ye Jia
-Nguyen Anh Tu
-Yinghui Huang ; Google
-Pravin Mote
-Clayton Tan
-Tan Xu ; MSRA
-Md Akmal Haidar
-Suyoun Kim
-Tien-Ju Yang
-Alodie Boissonnet
-Siddhant Arora
-Trevor Strohman ; Google
-Pavlos Papadopoulos
-Yongqiang Wang
-Yuhang Yang
-Sepand Mavandadi
-Zili Huang
-Constantin Orăsan
-Agha Ali Raza
-Yonghui Wu ; Google
-Edmilson Morais
-Kritika Singh
-Monica Sunkara
-Guoguo Chen
-Rodolfo Zevallos
-Hongyu Song
-Taiichi Hashimoto
-Emily Perez
-Hieu Duy Nguyen
-Srikanth Raj Chetupalli
-Alessandro Vinciarelli
-Jindong Wang; MSRA
-Leonardo Badino
-Serguei Pakhomov
-Shuangyu Chang
-Mine Kerpicci
-Petr Buchal
-Li Wang
-Helen M. Meng
-Dmitriy Serdyuk
-Suwon Shon
-Tyler Miller
-Felicitas Kleber
-Jenthe Thienpondt
-Minh-Châu Nguyên
-Qiuqiang Kong
-Jia Pan ; iFLYTEK
-Christine Mcleavey
-Juhan Nam
-Wei Chu
-Rhea Sukthanker
-Jiachen Lian
-Zhun Liu
-François Portet
-Alex Herzog
-Saeed Sarfjoo
-Mohammad Zeineldeen
-Graham Neubig
-Frank Hutter
-Shifu Xiong
-David B. Grayden
-Veljko Miljanic
-Roshan Sharma
-Jayesh
-Hyeji Seo
-Zhuoyuan Yao
-Meng Ge
-Tom Ko
-Vinay Kothapally
-Alan Zhou
-Elisa Cazzaniga
-Dominique Vaufreydaz
-Arul Menezes
-Julian Mcglashan
-Hiroaki Sato
-Keyu An
-Juan Zuluaga-Gomez
-Jhu
-Hiroshi Saruwatari
-Michael Riley
-Sumedh Sontakke
-Samuel Thomas
-Yujin Wang
-Xianrui Zheng
-Flavio Abreu Araujo
-Piotr Chlebek
-Cecilia Mascolo
-Karan Shetty
-Aki Harma
-Hiroto Noguchi
-Owen Mconyango
-Van Nguyen
-Valentin Gabeur
-Piotr Zelasko
-Minglun Han
-Masashi Unoki
-Pablo Mainar
-Dongseong Hwang
-Tuende Szalay
-Gongzhen Zou
-Efstathia Soufleri
-Thomas Quinnell
-Daisuke Saito
-Anna Ollerenshaw
-Hui Chen
-Sabine Hochmuth
-Yixin Zhang
-Haniyeh B. Pasandi
-Kyuhong Shim
-Fenglin Ding
-Catalin Zorila
-Ali Akbar Septiandri
-Karel Vesely
-Eric Fosler-Lussier
-Ao Zhang
-Rishav Ranjan
-Nobutaka Ono
-Jan Lehečka
-Peilin Yang
-Aravind Ganapathiraju
-Ryota Nishimura; Toku.
-Janine Rugayan
-Yao-Fei Cheng
-Gyunpyo Lee
-Chengqing Zong
-Andreas Stolcke
-Elisabetta Chicca
-Tianyi Chen
-Cheng Yi
-Ming Zhao
-Gasper Begus
-Hang Lv
-Andrew Rosenberg ; Google
-Jie Zhang
-Mengzhe Geng
-Matthew Radzihovsky
-Qi Chen
-Arun Babu
-Jeffrey Zhao
-Kris Demuynck
-Haitao Zheng
-Ankit B. Patel
-Hoang Phan
-Hyungseok Jeon
-Peng Xu
-Donghyeon Kim
-Jen-Cheng Hou
-Kunnar Kukk
-Neng Chen
-Jasha Droppo; Alexa
-Kuang-Huei Lee
-Il-Youp Kwak
-Vito Ghifari
-Ayako Hashimoto
-Juan Rafael Orozco-Arroyave
-Giuseppe Magistro
-Kaushik Roy
-Karissa Vincentio
-Lisha Chen
-Kailong Ren
-Peter Bell
-Akshat Shrivastava
-Elliott Wen
-Vikas Chandra
-Chen Chen
-Hoi Rin Kim
-Qibing Bai
-Yixuan Zhang
-Grant Strimel
-Ming Yan
-Xiao Wang
-Muhammad Satrio Wicaksono
-Siddarth C
-Binbin Zhang ; Horizon
-Adithya Raj Kolladath
-Hsin-Min Wang
-Yuanhang Qiu
-Youssef Oualil
-Geoffrey T. Frost
-Anja Virkkunen
-Timothy Baldwin
-Guillermo Cámbara
-Md Asif Jalal
-Beomseok Lee
-Ganesh Sivaraman
-Thomas Schaaf
-Zhongqin Wu ; Horizon
-Hadeel Saadany
-Elmar Nöth
-Weiyi Zheng
-Hongwei Ding
-Nimshi Venkat Meripo
-Peiying Wang
-Martin Claus
-Christophe Van Gysel
-Yulong Wan
-Yu Pan
-W. Bastiaan Kleijn
-Mark J. Cook
-Marie-Francine Moens
-Tatsuya Komatsu
-Neeraj Sharma
-Jin Wang
-Adolfo Martín García
-Guodong Ma
-Ryo Fukuda
-Jun Zhang
-Christer Gobl
-Hang Zhao
-Duzhen Zhang
-Xueshuai Zhang
-Kangyuan Shu
-Osvaldo Simeone
-Kirrie Ballard
-Yosi Shrem
-Soumi Maiti
-Li-Rong Dai
-Vishal Sunder
-Jesús Andrés-Ferrer
-Lan Wang
-Jaesong Lee
-Arnaldo Candido Junior
-Shiyu Chang
-Lirong Dai; USTC
-Marcely Zanon Boito
-Jinhwan Park
-Michael Auli
-Hanna Ehlert
-Christian Heider Nielsen
-Matthew Wiesner
-Jieke Shi
-Jong Won Shin
-Shuming Ma
-Amir Hussein
-Zhanheng Yang
-Mark Dingemanse
-Seungsang Oh
-Zelin Wu
-Pranav Dheram
-Selen Hande Kabil
-Yihan Wu
-Zehan Li
-Kazunori Komatani
-Zengrui Jin
-Xavier Saloppe
-Hossein Katebi
-Deeksha Manjunath
-Andreas K. Maier
-Issac Alphonso
-Yajie Mao
-Zhou Yang
-Shujie Liu; MSRA
-Boyang Xue
-Ian Lane; CMU
-Ilja Baumann
-Sabato Marco Siniscalchi
-Zhong Meng Msr
-Ina Kodrasi
-Flaviane Romani Fernandes Svartman
-Heiga Zen; Google
-Jinpeng Li
-Nobuyasu Itoh
-Julie Carson-Berndsen
-Nithya Ravi
-Pan-Pan Jiang
-Xiaoming Xhang
-Pengfei Hu
-Deekshitha G
-Hermann Ney ; RWTH Aachen
-Karol Hausman
-Tatiana Yudina
-Yiran Chen
-Catarina Botelho
-Heng Lu
-Michael Bärhold
-Shuo-Yiin Chang ; Google
-Haoyu Wang
-Ayse Kucukyilmaz
-Martin Flechl
-Georgios Karakasidis
-Jennifer Fox
-Tanel Alumäe
-Jin-Lin Tang
-Koji Inoue
-Zhengchen Zhang
-Navdeep Jaitly
-Takato Yamazaki
-Frederikus Hudi
-Xuan-Phi Nguyen
-Audrey Lavallée
-Zejun Ma ; ByteDance
-Zhihua Huang
-Minhao Yang
-Zhiyun Fan
-Yujun Chen
-Alexis Conneau
-Ashwinkumar Ganesan
-Meta Ai
-Yanyan Zou
-Jay Mahadeokar
-Xiulian Peng
-Cydnie Davenport
-Hyeon-Jeong Suk
-Chen Zhang
-Saket Dingliwal
-Gary Geunbae Lee
-Milind Rao
-Seung Jun Baek
-Sining Sun
-Alexander Waibel; CMU
-Kuo-Hsuan Hung
-Yu-Wen Chen
-Pierre Beckmann
-Jianwei Yu
-Chunlei Zhang
-Ke Ding
-Chanhee Park
-Munhak Lee
-Derek Xu
-Ashutosh Sabharwal
-Alejandro Gomez-Alanis
-Jingyuan Yang
-Andrew Rosenberg; Google
-Angela Roberts
-Yao Qian; MS
-Vassilis Katsouros
-Volker Dellwo
-Yusuke Fujita
-Geoffroy Vanderreydt
-Wonyong Sung; Seoul SNU
-Yonghui Xiao
-Yasuhito Ohsugi
-Charl Van Heerden
-Adnan Haider
-Ayu Purwarianti
-Ai Mizoguchi
-Morena Danieli
-Anthony Brohan
-Zhuo Zhang
-Songjun Cao
-Ya Li
-Andreas Liesenfeld
-Joon Byun
-Jun Du
-Yanhui Ding
-Florian L. Kreyssig
-Toshinori Sato
-Carolina Parada
-Marco Landt-Hayen
-Adam Stambler
-Xiaowang Zhang
-Salima Mdhaffar
-Khalid Choukri
-Kyoko Murasaki
-Neeraj Gaur
-Steve Vega
-Kuroda Miho
-Chuanxin Tang
-Guanbo Wang
-Yuanyuan Guo
-Rongqing Huang
-Tsendsuren Munkhdalai
-Hanno Gottschalk
-Yifan Peng ; CMU
-Lukas Lee
-Ariya Rastrow
-Pegah Ghahremani
-Yashesh Gaur ; MSR
-Xinyu Zhang
-Pablo Peso Parada
-Hyun Jin Park
-Da-Hee Yang
-Bhanu Balusu
-Werner Van Der Merwe
-Yang Zhang
-Deliang Wang
-Qingyang Hong
-Yuke Si
-Michel Plüss
-Ton Juny Pina
-Mu Yang
-Ehsan Variani; Google
-Vasu Sharma
-Apu Kapadia
-Okim Kang
-Running Zhao
-Theodoros Kouzelis
-Masayuki Suzuki ; IBM
-Zongfeng Quan
-Yuheng Kuang
-Alexandre Mourachko
-Lucas Kabela
-Abdelrahman Mohamed
-Takahiro Mochizuki
-Hui Gao
-Baishun Ling
-Ignacio Lopez-Moreno
-Phoenix Meadowlark‎
-Theresa Pekarek-Rosin
-Sethserey Sam
-Minxue Niu
-Nianzu Zheng
-Abhinav Mehrotra
-Qiao Liang
-Claudia Cevenini
-Wu-Jun Li
-Takuma Udagawa
-Hosam Khalil
-Jiyi Li
-Melvin Johnson
-Ruoming Pang; Google
-Lei Xie ; NPU
-Man-Wai Mak
-Justine Kao
-Yves Laprie
-Fangzhen Peng
-Marianne Métais
-Yu Zhang; Google
-Jing Shi
-Ta Li1; CAS
-Siyuan Feng
-Haoran Wei
-Junyi Ao
-Jiaming Wang
-Akihiro Miyata
-Nadee Seneviratne
-Xunying Liu; CUHK
-Yinpei Su
-Christopher Homan
-Keisuke Kinoshita
-Ivan Halim Parmonangan
-Chengyi Wang
-Yoshiaki Bando
-Katherine Powell
-Stefan Wermter
-Yanjiao Chen
-Xin-Chun Li
-Emily Mower Provost
-Aaditeshwar Seth
-Veronique Delvaux
-Simon Doclo
-Jon Barker
-Sophie Rosset
-Hong-Kwang Kuo
-Chandramouli Shama Sastry
-Khe Chai Sim
-Yifan Peng; CMU
-Qingqing Zhang
-Petr Schaffer
-Dexin Liao
-Seungu Han
-Grant Bridgman
-Hang Chen
-Jiamin Xie
-Ozlem Kalinli ; MetaAI
-Heinrich Dinkel
-Ilya Sklyar
-Wenliang Dai
-Zhuo Chen
-Min Xu
-Tianrui Wang
-Jun Zhou
-Karen Livescu
-Ahmed Hussen Abdelaziz
-Jiangyi Deng
-Karel Veselý
-Radu Tudor Ionescu
-Phil Woodland
-Zhaoxu Nian
-Tomer Wullach
-Yevgen Chebotar
-Austin Stone
-Christina Sartzetaki
-Tirana Noor Fatyanosa
-Greg Brockman
-Iván Vallés-Pérez
-Jimmy Weber
-Zeping Min
-Pin-Tuan Huang
-Ramit Sawhney
-Kavya Manohar
-Wenming Zheng
-Takeshi Homma
-Zexun Wang
-Javier Fernandez-Marques
-Seong-Whan Lee
-Long Ma ; Tencent
-Philipp Klumpp
-Birger Kollmeier
-Neil Zeghidour
-Robin Algayres
-Gloria Washington
-Apoorv Vyas
-Anatole Moureaux
-Hayato Futami
-Esaú Villatoro-Tello
-Massa Baali
-Tanvi Dinkar
-Paden Tomasello
-Mireia Diez
-Hyung-Min Park
-Xihong Wu
-Pascale Fung
-Mercedes Torres Torres
-Xue-Yong Fu
-Nathaniel Romney Robinson
-Thilo Von Neumann
-Yuan Shangguan
-Jason Riesa
-Ji Won Yoon
-Sifan Ma
-Andreas Erzigkeit
-Xin Wang
-Pranay Reddy Samala
-Ozlem Kalinli; MetaAI
-Michal Hradiš
-Joel Shor
-Hugo Carneiro
-Lukasz Lew
-Emil Nadimanov
-Siqing Qin
-Pavel Kral
-Tim Herzig
-Yashesh Gaur; MSR
-Dinh Phung
-Cordelia Schmid
-Tom Denton
-I-Fan Chen
-Thinh Truong
-Marco Gaudesi
-Ika Alfina
-Abdulmotaleb El Saddik
-Rupak Vignesh Swaminathan
-Neasa Ní Chiaráin
-Elsa Spinelli
-Anastasia Safonova
-Feng Hou
-Xin Zhou
-Korin Richmond
-Puyuan Peng
-Hassan Taherian
-Fareeha S. Rana
-Yuna Lee
-Polo Chau
-Rifki Afina Putri
-Mamady Nabe
-Katie Seaver
-Silke Hamann
-Prasanta Ghosh
-Aaron Hoff
-Jihyun Lee
-Chan-Jan Hsu
-Alexandra Antonova
-Hyun Kyung Hwang
-Takaaki Saeki
-Huahuan Zheng
-Anton Ratnarajah
-Korbinian Riedhammer
-Lei He
-Ingo Langheinrich
-Zhifan Ye
-Qiushi Zhu
-Trung Le
-Zhixiang Xiong
-Karen Scholz
-Apple
-Junhao Xue
-Abhishek Pandey
-Holger Schwenk
-Dongmei Wang
-Katerina Zmolikova
-Junhyeok Lee
-Onoe Naoyuki
-Akihiro Tamura
-Jasmine Hsu
-Bryan Wilie
-Michael L. Seltzer; MetaAI
 Jumon Nozaki
-Xianxin Chen
-Zhaoyi Liu
-Daniel Pape
-Wei Wang
-Anirudh Raju
-Yui Sudo
+Sethserey Sam
+Sarthak Yadav
+Liang-Hsuan Tseng
+Sadhana Gonuguntla
+Tsendsuren Munkhdalai
+Minghui Wu
+Mark Hasegawa-Johnson
+Junwen Bai
+Mingqiu Wang
+Selen Hande Kabil
+Yan Zhao
+Shuo Ren
+Hiroshi Sato
+Yuanchao Li
+Jia-Yi Leng
+Jiachen Lian
+Ashish Shenoy
+Eric Castelli
+Colin Cherry
+Rodrigo Schoburg Carrillo De Mira
+Jia Pan ; iFLYTEK
+Shuping Tan
+Hang Lv
+Daxin Jiang
+Ofir Nachum
+Aki Harma
+Jong Won Shin
+Gyunpyo Lee
+Debottam Dutta
+Cuk Tho
+Trang Tran
+Shen Huang
+Qi Liu
+Peiqi Liu
+Joel Shor
+Lena Pagel
+Holam Chung
+Zhuoye Ding
+Heqing Zou
+Yu Zhang; Google
+Neng Chen
+Rongjun Li
+Junhao Xue
+Marianne Métais
+Daehun Yoo
+Soon Hoe Lim
+Orhan Firat
+Gabriel Roccabruna
+Maria Del Mar Cordero
+Minxue Niu
+Xu Tan
+Kyosuke Nishida
+Sri Harsha Dumpala
+Sundararajan Srinivasan
+Giampiero Salvi
+Chu-Xiao Zuo
+Yusuke Fujita
+Thomas Niesler
+Naoyuki Kanda
+Gil Keren
+Peter Birkholz
+Isabelle Ferrané
+Kirsty Mcdougall
+Mercedes Torres Torres
+Siyuan Feng
+Hadrien Titeux
+Thomas Lukasiewicz
+Yulong Wan
 Cal Peyser
-Markus Förstel
-Shinji ; Dong Yu
-Ryandito Diandaru
-Francoise Beaufays
-Yanick Schraner
-Chunyang Wu
-Tegan Maharaj
-Karteek Alahari
-Saskia Wepner
-Natalia Tomashenko
-Muhammad Shakeel
-Maria Schuster
-Petra Wagner
-Rudolf Uher
-Xin Ye
-Ziqiang Zhang
-Nicole Holliday
-Xia Song
-Zhehuai Chen ; Google
-Haiwei Dong
-Yuya Fujita; 1Yahoo
-Pasquale D'Alterio
-Rui Zhao
-Tetsuji Ogawa
+Zhendong Peng; WeNet
+Hyeon-Jeong Suk
+Xin Wang
+Srinivasan Umesh
+Lauriane Gorce
+Georgios Karakasidis
+Ladislav Lenc
+Simon Doclo
+Fuping Pan; Horizon
+Leyuan Qu
+Ayu Purwarianti
+Lei He
+Dhananjaya Gowda
+Phani Sankar Nidadavolu
+Haaris Mehmood
+Athanasios Mouchtaris
+Milos Cernak
+Jingjing Xu
+Seung Jun Baek
+Yang Liu
+Veerdhawal Pande
+Luboš Šmídl
+Ade Romadhony
+Devaraja Adiga
+Ronit Damania
+Ayman Mansour
+Jimmy Lin
+Murugesan Ramakrishnan
+Rodrigo Mira
+Sifan Ma
+Efstathia Soufleri
+Thiago Fraga Da Silva
+Youngsik Eom
+Massa Baali
+Pranay Manocha
+Martin Radfar
+Yeonghyeon Lee
+Shira Hahn
+Sharman Tan
+Takashi Maekaku
+Catalin Zorila
+Anuroop Sriram
+Muhammad Umar Farooq
+Herry Sujaini
+Tsinghua ; xiaojing
+Polo Chau
+Jiajun Deng
+Lei Sha
+Tanja Schultz
+Jinming Zhao
+Yuntao Li
+Suyoun Kim
+Tao Jiang
+Lars Rumberg
+Diyuan Liu
+Christian Wibisono
+Alon Benhaim
+Wei Chen
+Tongzhou Chen
+Hussel Suriyaarachchi
+Xenia Kogler
+Anne Hermes
+Abeer Alwan
+Gary Wang
 Maureen De Seyssel
+Hossein Katebi
+Youzheng Chen
+Amir Harati
+De-Chuan Zhan
+Haitao Zheng
+Paula Andrea Pérez-Toro
+Felix Weninger
+Xiulian Peng
 Shashi Bhushan Tn
-Rami Botros
-Li Xiong
-Andreas Maier
-Keerthana Gopalakrishnan
-Kevin Hirschi
-Sashi Novitasari
-Damian Borth
-Mihir Kale
-Rim Helaoui
-Sara Ng
-Kevin Meng
+Mirko Hannemann
+Markus Multrus
+Emiru Tsunoo
+Shou-Chun Yin
+Herman Kamper
+Mengxi Nie
+Jianwei Niu
+Harini Kesavamoorthy
+Zhifu Gao
+Jinhwan Park
+Ulrike Lüdtke
+Lena L.N. Wong
+Zhong-Qiu Wang
+Ryan Ignatius
+Seungkwon Beack
+Aaron Hoff
+Shinji Watanabe; CMU
+Satwinder Singh
+Ahmed Hussen Abdelaziz
+Takafumi Moriya
+Marc Delcroix; NTT
+Bronya Roni Chernyak
+Nizar Habash
+Jianwu Dang ; Tianjin
+Xunying Liu ; CUHK
+Hoang Phan
+Xiangmin Xu
+Rama Doddipatla; Toshiba
+Vitaly Lavrukhin ; Nvidia
+Alexei V. Ivanov
+Weiyi Zheng
+Junlan Feng
 Zvi Kons
-Jahyun Goo
-Florian Metze
-Hyeonseung Lee
-Pannag Sanketi
-Jing Su
-Josef Psutka
-Yiming Wang
-Pedro J. Moreno
-Sachith Seneviratne
-Quandong Wang
-Ernest Pusateri
-Christin Kirchhübel
-Anton Lozhkov
-Ali Lashini
-Yi Wang
-Wei Zhou; RWTH Aachen
-Tiezheng Yu
-Kilol Gupta
-Hossein Zeinali
-Hongyu Wang
-Nathan Susanj
-Herve Bourlard ; EPFL
-Bhiksha Raj; CMU
-Alexander Waibel ; CMU
-Conceição Cunha
-Taesu Kim
-Daniel Blackburn
+Veljko Miljanic
+Sabine Hochmuth
+Sathvik Udupa
+Wassim El-Hajj
+Oralie Cattan
+Sharvi Endait
+Chul Lee
+Xinjian Li
+Zengrui Jin
+Erik Marchi
+Hiroshi Saruwatari
+Koichi Miyazaki
 Tingle Li
-Ewan Dunbar
+Zhengkun Tian
+Zhijie Yan
+Thomas Hain
+Tim Polzehl
+Xue-Yong Fu
+Katunobu Itou
+Yufeng Yang
+Yu Pan
+Haohe Liu
+Foteini Liwicki
+Grant P. Strimel
+Naoya Watabe
+Kwanghee Choi
+Kailong Ren
+Sravan Bodapati
+Korbinian Riedhammer
+Shujie Liu; MSRA
+Pengyuan Zhang; CAS
+Zhuoya Liu
+Shengqiang Li
+Hiroto Noguchi
+Jasha Droppo; Alexa
+Nicola Ferri
+Geoffrey T. Frost
+Shota Horiguchi
+Abdulmotaleb El Saddik
+Rao Ma
+Pedro Moreno ; Google
+Rahil Parikh
+Ke Ding
+Feilong Chen
+Martin Kišš
+Desh Raj
+Elliott Wen
+Electra Wallington
+Lukas Lee
+Zhehuai Chen ; Google
+Miran Oh
+Yinpei Su
+Werner Van Der Merwe
+Lirong Dai; USTC
+Rae-Hong Park
+Parvaneh Janbakhshi
+Nasser Mozayani
+Farhad Javanmardi
+Wu Guo
+Oumnia Chellah
+Michael Chinen
+Yuan-Fang Li
+Julia Schwarz
+Shushan Qiao
+Daniel S. Park ; Google
+Yan Yu
+Tomoki Hayashi
+Helen Minnis
+Hang Chen
+Diego Reforgiato Recupero
+Yajie Mao
+Talia Ben Simon
+Yangyang Ou
+Flavio Abreu Araujo
+Peidong Wang
+Junhyeok Lee
+Alessandro Vinciarelli
+Weigong Pan
+Boxing Chen
+Guillermo Cámbara
+Abhinav Rastogi
+Mohamed Ali
+Pranay Dighe
+Longxiang Zhang
+Arul Menezes
+Hannes Gamper
+Kuan Po Huang
+Yan Jia
+Tara Sainath; Google
+Shalini Ghosh
+Javier Fernandez-Marques
+Ozlem Kalinli; MetaAI
+Yuanyuan Guo
+Juan Pino
+Thomas R. O'Malley
+Ming Liu
+Jiajun Zhang
+Wenqing Wei
+Kavan Fatehi
+Alan Zhou
+Yukiko Nakano
+Mingjiang Wang
+Ting Dang
+Sergey Levine
+Vrunda Nileshkumar Sukhadia
+Naoki Makishima
+Nassos Katsamanis
+Ian Mcloughlin
+Oleg Rybakov
+Michael Picheny
+Piyush Behre
+Daniel Zhang
+Björn W. Schuller
+Maximin Coavoux
+Piotr Zelasko
+Srikanth Korse
+Salima Mdhaffar
+Chengyi Wang
+Xiong Wang
+Min Ma
+Roshan Sharma
+Yuxiang Kong
+Hyeji Seo
+Kurt Partridge
+Yuan Zong
+Kyoko Murasaki
+Xiaoyu Yang
+Lodagala V. S. V. Durga Prasad
+Katerina Zmolikova
+Christoph Lüscher
+Frank Hutter
+Christoph Wagner
+Hung-Shin Lee
+Songjun Cao
+Duc Le
+Manaal Faruqui
+Jun Qi
+Yi He
+Yifan Sun
+Yinghui Huang; Google
+De Hu
+Hamdy Mubarak
+Lucas Kabela
+Zi Ye
+Zejun Ma ; ByteDance
+Hao Huang ; Xinjiang
+Xiao-Lei Zhang
+Jan Švec
+Wafaa F. Mukhtar
+Hanno Gottschalk
+Tsubasa Ochiai; NTT
+Dong-Hyun Kim
+Mark Liberman
+Qiushi Zhu
+Fumio Nihei
+Zhenlin Liang
+Yongqiang Wang
+Dongji Gao
+Jiaxin Li
+Shaojin Ding
+Ilya Sutskever
+Yanick Schraner
+Nan Li
+Jonas Vanthornhout
+Kaspar Müller
+Paul Calamia
+I-Fan Chen
+June Choe
+Shiquan Wang
+Peter Skala
+Dmitriy Serdyuk
+Le Gan
+Yuya Fujita; 1Yahoo
+Arun Narayanan
+Yuke Si
+Zhuoyuan Yao
+Tang Li
+Peng Gao
+Sichun Xu
+Md. Mushtaq Shahriyar Rafee
+Torbjørn Svendsen
+Colin White
+Karthikeyan Saravanan
+Michael Bärhold
+Yusuke Kida
+Lee Hungyi
+Padma Varadharajan
+Stephen Nichols
+Otavio Braga
+Yonghong Yan; CAS
+Graham Neubig
+Zeping Min
+Hamed Hemati
+Wei Chu
+Gasser Elbanna
+Georgios Paraskevopoulos
+Ruying Bao
+Yannick Estève; LIA-Avignon
+Saeed Sarfjoo
+Andrew Rosenberg; Google
+Simon Roessig
+Alice E. A. Allen
+Qiao Liang
+Yu Wu
+Payal Bajaj
+Sandra Aluísio
+Vince Chen
+Xinlin Li
+Alexander Gerstenberger
+Jieun Kiaer
+Hagen Soltau
+Zhongqin Wu; Horizon
+Huayun Zhang
+Swagath Venkataramani
+Mete Ozay
+Lu Fan
+Wilfried Michel
+Sahar Ghannay
+Catia Cucchiarini
+Joseph Dabis
+Karol Hausman
+Lauren Harrel
+Fei Zuo
+Chelsea Finn
+Swaroop Ramaswamy
+Vera Axelrod
+Rhea Sukthanker
+Junjie Wen
+Haihua Xu
+Yu Wang
+Jean-Philippe Goldman
+Anton Ratnarajah
+Hosam Khalil
+Valentin Mendelev
+Wenyuan Xu
+Weibin Zhu
+Sunghwan Ahn
+Chongjia Ni
+Linhao Dong
+Robert M. Roth
+Jaspiar Singh
+Izhak Shafran
+Jenthe Thienpondt
+David Rybach ; Google
+Zhouwang Yang ; USTC
+Barun Patra
+Lilian Wanzare
+Sunit Sivasankaran
+Guodong Ma
+Pranav Dheram
+Hui Bu
+Murali Alagesan
+Raviteja Chinta
+Jiang Bian
+Sameer Bidichandani
+Felix Wu
+Mostafa Shahin
+Marc Delcroix ; NTT
+Haniyeh B. Pasandi
+Xiaoxiao Li
+Sanli Tian
+Marco Gaudesi
+Trevor Strohman; Google
+Fangjun Kuang
+Xurong Xie
+Khe Chai Sim
+Andrew Rosenberg ; Google
+Sandra Schwab
+Yuan Zhang
+Francoise Beaufays
+Conceição Cunha
+Johnny Downs
+Yuxuan Wang
+Zexun Wang
+Arnab Ghoshal
+Matheus Damasceno
+Giovanni Motta
+Ta Li1 ; CAS
+Shammur Chowdhury
+David B. Grayden
+Tal Remez
+Christopher Gebauer
+Natalie Delworth
+Jinyu Li ; MSR
+Mohammad Zeineldeen
+Morena Danieli
+Sishi Liao
+Abhayjeet Singh
+Jing Shi
+Yasheng Wang
+Katrina Kechun Li
+Min Xu
+Matthew Wiesner
+Ina Kodrasi
+Zhihua Huang
+Alexis Conneau
+Josef Psutka
+Zhihua Wei
+Tsinghua; xiaojing
+Andreas Erzigkeit
+Qingtao Li
+Yao Qian ; MS
+Alexandra Antonova
+Mirek Novak
+Alex Park
+Zhuo Zhang
+Lei Xie; NPU
+Alexa ; Jasha
+Taihao Li
+Tan Liu
+Nobutaka Ono
+Brian Kingsbury ; IBM
+Aurora Saibene
+Microsoft
+Li-Rong Dai
+Xuyi Zhuang
+Heming Wang
+Jun Li
+Ian Mcgraw
+Quandong Wang
+Yasuhiro Sogawa
+Masato Mimura
+Fei Jia
+Jing Xiao
+Bach Bui
+Michaela Pernon
+Gianfranco Bilardi
+Tomas Arias
+Nobuyuki Morioka
+Rui Heng Yang
+Golan Pundak
+Georgios Rouvalis
+David Haws
+Yael Segal
+Andre Bittar
+Jan Lehečka
+Shulin He
+Piotr Żelasko
+Samsul Rahmadani
+Mireia Farrús
+Robin Algayres
+Zhijian Ou
+M. Firoz Ahmed
+Yi Zhan
+Vincent Colotte
+Keisuke Kinoshita
+Tsubasa Ochiai ; NTT
+Woosung Choi
+Christer Gobl
+Wei Kang
+Chanhee Park
+Zhe Zhang
+Dimitrios Stoidis
+Ariya Rastrow
+Yongqing Wang
+Satoshi Suzuki
+Xuan-Phi Nguyen
+Zitha Sasindran
+Roger Hsiao
+Zhenglin Zhang
+Melissa Saboowala
+Anuj Diwan
+Sachith Seneviratne
+Tiezheng Yu
+Elizabeth Shriberg
+Brianna Zitkovich
+Tianrui Wang
+Joseph Savold
+Masayuki Suzuki; IBM
+Dirk Plettemeier
+Xingchen Song
+Odette Scharenborg
+Kritika Singh
+Xuedong Zhang
+Xiaorui Wang
+Shuhua Zhang
+Ioana Vasilescu
+Kevin Everson
+Xun Wang
+Jay F. Buzhardt
+Jiayi Fu
+Zhuohuang Zhang
+Jiangyan Yi
+Daniel Pape
+Sravya Popuri
+Jie Li
+Guidong Zheng
+Roland Maas; JHU
+François Portet
+Naman Goyal
+Vincent Vandeghinste
+Vinod Kumar Kurmi
+Lucas Ondel
+Thomas Elsken
+Marco Matassoni
+Yanjiao Chen
+Qing Zhao
+Bhanu Balusu
+Brian Kingsbury; IBM
+Nick Kibre
+Alexander Waibel; CMU
+Apu Kapadia
+Mi Hong
+Xavier Saloppe
+Shafkat Kibria
+Yoshihiko Kawai
+Xin Li
+Subhashini Venugopalan
+Donggyun Han
+Lei Liu; CUHK.SZ
+Lan Du
+Neeraj Sharma
+Takahiro Aizawa
+Jihyun Lee
+Anirudh Raju
+Rahmad Mahendra
+Sean Augenstein
+Arnaldo Candido Junior
+Tan Xu ; MSRA
+Hongan Wang
+Zhichao Wang
+Wei Zhou; RWTH Aachen
+Xin Fang
+Kuang-Huei Lee
+Lu Zhang
+Kuroda Miho
+Takao Okuda
+Milind Rao
+Jeff Farris
+Ting-Wei Wu
+Yanzhang He; Google
+Hagai Aronowitz
+Rama Doddipatla ; Toshiba
+Lam Tran
+Michael Ryoo
+Jing Zhao
+Eda Okur
+Tresi Arvizo
+Jen-Cheng Hou
+Ivan Halim Parmonangan
+Wu-Jun Li
+Aini Li
+Audrey Lavallée
+Junjie Wang
+Jan Skoglund
+Christian Scheller
+Furu Wei ; MSRA
+Meng Chen
+Yanzhang He ; Google
+Taiichi Hashimoto
+Xingyu Na
+Ahmed Ali
+Jieun Song
+Yixin Zhang
+Biswaranjan Pattanayak
+Abhinav Mehrotra
+Hainan Xu
+Florence Indede
+Wenjie Liu
+Kiyoshi Honda
+Sriram Ganapathy
+Stephanie Borel
+Ivana Nikoloska
+Jeonghan Lee
+Qu Yang
+Ye Jia
+Justice Carbajal
+Benoît Sagot
+Bowen Zhang
+Jagna Nieuważny
+Xiaoquan Ke
+Yao-Fei Cheng
+Hong-Kwang Kuo
+Nicole Holliday
+Shujie Hu
+Binbin Zhang; Horizon
+Andrei Bîrlădeanu
+Alham Fikri Aji
+Dading Zhong
+Deekshitha G
+Kentaro Shibata
+Prashant Sridhar; ASAPP
+Alejandro Gomez-Alanis
+Mingqing Chen
+Wanghaoqian
+Srikanth Raj Chetupalli
+Ziwei Ji
+Jakob Poncelet
+Natalia Tomashenko
+Saksham Singhal
+Jae-Jin Jeon
+Gakuto Kurata; IBM
+Alexandre Mourachko
+Benjamin Lecouteux
+Dongmei Wang
+Hartmut Lehfeld
+Katsuhito Sudoh
+Liangchen Wei
+Tuende Szalay
+Kyu J. Han ; ASAPP
+Qun Liu
+Hayato Futami
+Li Liu; CUHK.SZ
+Jian Wu
+Rama Sanand Doddipatla
+Somshubra Majumdar ; Nvidia
+Xihong Wu
+Yuqin Lin
+Vishwa Shah
+Daniel Korzekwa
+Matthew Baas
+Long Mai
+Kay Peterson
+Korin Richmond
+Amrith Krishna
+Zhun Liu
+Saida Mussakhojayeva
+Jun Wang
+Rina Panigrahy‎
+Laurent Besacier
+Eleftherios Kapelonis
+Mattias Nilsson
+Tomas Jackson
+Gholamreza Haffari
+Ahmed Tewfik
+Liuhui Deng
+Hugo Carneiro
+Nauman Dawalatabad
+Changye Li
+Debadeepta Dey
+Dominik Wagner
+Venkatesh Ravichandran
+Katie Seaver
+Bhiksha Raj; CMU
+Kaiqi Zhao
+Navdeep Jaitly
+Louis Goldstein
+Taesu Kim
+Da-Wei Zhou
+Wonyong Sung; Seoul SNU
+Chayan Sarkar
+Hoon Kim
+Tohru Nagano ; IBM
+Jean-Louis Nandrino
+Chitralekha Bhat
+Sunhee Kim
+Hervé Bredin
+Hao Ni
+Jingjing Dong
+Xiaoxiao Miao
+Lyan Verwimp
+Yuan Cao
+Karlsruhe Germany
+Youzheng Wu ; JD
+Zelin Wu
+Tianyi Chen
+Nikhil Siddhartha‎
+Ryo Fukuda
+Phil Hoole
+Yukun Feng
+Laurent El Shafey
+Madhuri Emmadi
+Huaying Xue
+Nicholas Lane
+Joanna Hong
+Prof. Dd Kadam
+Long Zhou
+David Chan
+Siddhant Arora
+Xianxin Chen
+Saket Dingliwal
+Yusuke Shinohara
+Nilaksh Das
+Yuheng Kuang
+Takashi Fukuda ; IBM
+Roland Maas ; JHU
+Hugo Van Hamme
+Bo Li
+Mana Ihori
+Flaviane Romani Fernandes Svartman
+Chanwoo Kim
+Sebastian P. Bayerl
+Maja Pantic
+Petr Buchal
+Titouan Parcollet
+Karun Kumar
+Xin Zhang
+Jinfeng Bai
+Ziyang Ma
+Shu Yu
+Jessica Nguyen
+Yu Shi
+Junbo Zhang
+Leon Liebig
+Zhengjun Yue
+Apoorv Vyas
+Furu Wei; MSRA
+Fenglin Ding
+Xun Gong
+Yik-Cheung Tam
+Jin-Lin Tang
+Yujun Chen
+Zongfeng Quan
+Sheng Zhao
+Jan Svec
+Stefano Goria
+Katsumasa Yoshikawa
+Hanna Ehlert
+Yanhui Ding
+Quentin Meeus
+Chuanxin Tang
+Carol Espy-Wilson
+Alodie Boissonnet
+Ma Zejun
+Doris Muecke
+Md Asif Jalal
+Tom Denton
+Sylvain Detey
+Francesca Gasparini
+Philip N. Garner; Idiap
+Alexander Waibel ; CMU
+Jian Xue
+Jiahui Pan
+Alec Radford
+Guillaume Wisniewski
+Juhan Nam
+Ziyang Zhuang
+Antti Veikko Rosti
+Yanyan Zou
+David R. Mortensen
+Manila Kodali
+Guanglai Gao
+Yi Zhu
+Marco Naguib
+Gabriela Stegmann
+Makoto Iwayama
+Anupam Singh
+Ankur Bapna; Google
+Hirofumi Inaguma
+Yi-Kai Zhang
+Yi Xie
+Leonardo Badino
+Peng Su
+Zhenyu Wang
+Zhouwang Yang; USTC
+Pengyuan Zhang ; CAS
+A Arunkumar
+Abdelrahman Mohamed
+Xia Song
+Xin Xu
+Hiroaki Sato
+Philip C. Woodland
+Geoffrey Liu
+Allan Tart
+Mahir Morshed
+Marina Laganaro
+Ankita Pasad
+Philipp Buech
+Yan Gao
+Michael L. Seltzer ; MetaAI
+Binxin Ru
+Shuai Nie
+Chan-Jan Hsu
+Ales Prazak
+Igor Mordatch
+Ching-Feng Yeh
+Stuttgart
+Atsushi Ando
+Chandra Dhir
+Tamás Grósz
+Yutong Pang
+M. Shahidur Rahman
+Chae-Won Lee
+Agha Ali Raza
+Theresa Pekarek-Rosin
+C.S. Ramalingam
+Michele Schimd
+Siqi Li
+Heiga Zen ; Google
+Sanjeev Khudanpur; JHU
+Ilja Baumann
+Ashish Seth
+Michael Riley
+Sang-Eon Lee
+Michael W. Mahoney
+Dario Albesano
+Shaohan Huang
+Satoshi Nakamura
+Satwik Dutta
+Yanhua Long
+Naipeng Ye
+Christophe Servan
+Man-Wai Mak
+Alexis Michaud
+Can Xu
+Dongseong Hwang
+Ernest Pusateri
+Bohan Li
+Ali Akbar Septiandri
+Vinícius G. Dos Santos
+Jón Guðnason
+Ankit B. Patel
+Nobuyasu Itoh
+Vasu Sharma
+Tan Xu; MSRA
+Petra Wagner
+Tim Herzig
+Ioannis Tsiamas
+Mostafa Sadeghi
+Emily Perez
+Seyyed Saeed Sarfjoo
+Xue Jiang
+Mathieu Martel
+Ji Sub Um
+Jhu
+Ngoc N. Tran
+Sunmook Choi
+Mian Ma
+Wolfgang Macherey
+Tatsuya Kawahara
+Adel Nabli
+Zeyang Song
+Lukas Neukom
+Erfan Loweimi
+Karl Pertsch
+Hyungchan Song
+Jie Zhang
+Jayesh
+Chen Sun
+Heting Gao
+Martin Kocour
+Nianzu Zheng
+Fuping Pan ; Horizon
+Alexa; Jasha
+Heguang Liu
+Yanmin Qian
+Cheng-I Lai
+Yuanhang Qiu
+Zhaoyi Liu
+Mikel K. Ngueajio
+Guanglu Wan
+Qi Chen
+Dat Quoc Nguyen
+Guilherme Schu
+Helen Meng ; CUHK
+Muhammad Shakeel
+Yumei Zhou
+Rongfeng Su
+Shiyu Zhou
+Frank Seide
+Sarah Campbell
+Maria Schuster
+Wei Zhou ; RWTH Aachen
+Suwon Shon
+Jonathan Clark
+Lionel Fontan
+Tara N. Sainath
+Tomohiko Nakamura
+Vishrav Chaudhary
+Oana-Maria Camburu
+Tom Ko
+Elisa Cazzaniga
+Kaituo Xu
+Barbara Schuppler
+Hassan Taherian
+Bhuvana Ramabhadran; Google
+Pranay Reddy Samala
+Alice Biryukov
+Xing Ma
+Lester Phillip Violeta
+Ru Ye
+Jingjing Yin
+Jia Pan; iFLYTEK
+Jordi Luque
+Walter Heymans
+Mengzhe Geng
+Tohru Nagano; IBM
+Lokesh Gupta
+Christoph Minixhofer
+Marcelo Matheus Gauy
+Vito Ghifari
+Vladislav Belyaev
+Hongyu Wang
+Naoko Tanji
+Jerome Goulian
+Melvin Johnson
+Shan Liang
+Haoran Wei
+Fan Cui
+Yunfeng Shao
+Lori Lamel
+Gefei Yang
+Shyam Upadhyay
+Pengfei Liu1
+Peilin Zhou
+Ihsan Ayyub Qazi
+Mohammad Reza Mohammadi
+Christian Osendorfer
+Kai Zhen
+Pouriya Amini Digehsara
+Sotheara Leang
+Jincen Wang
+Tara Sainath ; Google
+Sashi Novitasari
+Richard Cave
+Anastasia Safonova
+Martin Flechl
+Helin Wang
+Liam Lonergan
+Ali Siahkoohi
+Seungmin Shin
+Jonathan Le Roux
+Ryo Ishii
+Sanyuan Chen
+Fahad Shahbaz Khan
+Jounghee Kim
+Ta Duc Huy
+Edmilson Morais
+Ruili Wang
+Zehua Zhang
+Trevor D. Strohman
+Bo Long
+Germany
+Matthew Perez
+Teena Tom Dieck
+Saurabh Kumar
+Masashi Unoki
+Vikas Chandra
+Yan Lu
+Marcelo Finger
+Zhiliang Peng
+Petr Motlicek
+Chengdong Yao
+Christina Sartzetaki
+Yuehai Wang
+Jarod Duret
+Shu-Jie Liu
+Seung Hee Yang
+Stephen Daniel Looney
+Shihab Shamma
+Amrutha Prasad
+Aaqib Saeed
+Youzheng Wu; JD
+Genshun Wan
+Lingxuan Ye
+Itsumi Saito
+Peter Bell
+Mamady Nabe
+Boyang Xue
+Ananya Misra
+Hyung-Min Park
+Takanori Ashihara
+Shaoxing Zhang
+Anatole Moureaux
+Sandeep Konam
+Ricardo Oliveira
+Benjamin Galliot
+Jianxin Pang
+Yu Nakagome
+Rishav Ranjan
+Gordon Wichern
+Matt Post
+Yannick Estève ; LIA-Avignon
+Paul Hongsuck Seo
+Yuhang Yang
+Jong-Hyeok Lee
+Jan Niehues
+Junrui Ni
+Cong-Thanh Do
+Eun Jung Yeo
+Olivier Siohan
+Ankur Bapna ; Google
+Anna Piunova
+Sebastian Peter Bayerl
+Hyungseok Jeon
+Mathilde Hutin
+Yujin Wang
+Chelsea Krantsevich
+Athanasios Katsamanis
+Mingchao Feng
+Sunil Sivadas
+Edward Lin
+Ilham Firdausi Putra
+Kuo-Hsuan Hung
+Chao Yang
+Seungheon Doh
+Sara Ng
+Tomoki Toda
+Viet Anh Trinh
+Bhuvana Ramabhadran ; Google
+Ngoc-Quan Pham
+Lyes Khacef
+Shefali Garg
+Cornelius Weber
+Tatsuya Kitamura
+Karen Scholz
+Vinay Namboodiri
+Aaditeshwar Seth
+Cong Liu; iFLYTEK
+Gakuto Kurata ; IBM
+Laura Spinu
+Vipula Dissanayake
+Nobukatsu Hojo
+Ian Lane; CMU
+Ryota Nishimura ; Toku.
+Helen L. Fisher
+Deliang Wang
+Hengshun Zhou
+Beomseok Lee
+Vinay Kothapally
+Soumi Maiti
+Peng Zhang
+Shijun Wang
+Li Fu
+Sudarsana Reddy Kadiri
+Hannaneh B. Pasandi
+Wonyong Sung ; Seoul SNU
+Nicolas Audibert
+Jana Van Canneyt
+Shakti Rath
+Vera Bernhard
+Yatharth Saraf
+Ryo Masumura
+Elsa Spinelli
+Shinji Watanabe ; CMU
+Yosuke Higuchi
+Bastian Oppermann
+Eric Sun
+Tomoya Mizumoto
+Venkata Srikanth Nallanthighal
+Baishun Ling
+Noah Brown
+Yinglin Ji
+Binxing Jiao
+Cordelia Schmid
+Vrunda Sukhadia
+Karel Beneš
+Manos Plitsis
+Wenyong Huang
+Lei Sun
+Ju Zhang
+Yasser Shekofteh
+Zhihao Du
+Yan Xu
+Pengcheng Li ; iFLYTEK
+W. Ronny Huang
+Jindong Wang; MSRA
+Ke Li
+Yang Zhang
+Justine Kao
+Chen Xie
+Stefan Braun
+Kun Zou
+Vineet Garg
+Yui Sudo
+Wei-Ning Hsu
+Jindong Wang ; MSRA
+Deeksha Manjunath
+Tie-Yan Liu
+Yushi Ueda
+Wei Li
+Yike Zhang
+Mudit Batra
+Chloé Chopin
+May Pik Yu Chan
+C V Jawahar
+Xueshuai Zhang
+Mikolaj Kegler
+Stefan Riezler
+Kangwook Jang
+Jimmy Weber
+Xixin Wu
+Ika Alfina
+Ming Yan
+Tariq Afzal
+Eunsol Choi
+Tegan Maharaj
+Yingying Gao
+Shaojun Wang
+Saurabh Adya
+Longyu Zhang
+Chunlei Zhang
+Sanae Matsui
+Abu Zaher Md Faridee
+Yonghui Xiao
+Ganesh Mirishkar
+Jonathan Flint
+Aishanee Shah
+Cahya Wirawan
+Ashtosh Sapru
+Carolina Parada
+Ruoyu Wang
+Luke Prananta
+Jae-Hong Lee
+Li Xiong
+Mayumi Ohta
+Jay Mahadeokar
+Qingyu Wang
+Li Wang
+Iván Vallés-Pérez
+Kushal Lakhotia
+Yu Bai
+Huseyin Atakan Varol
+Mari Ostendorf
+Rajeev Rajan
+Yonghui Wu ; Google
+Catarina Botelho
+Xuankai Chang
+Adolfo Martín García
+Joon-Hyuk Chang
+Yifan Gong ; MSR
+Kartik Audhkhasi
+Longbiao Wang
+Andrew Hard
+Kangyuan Shu
+Zehui Yang
+Heidi Christensen
+Alan W Black
+Paul Magron
+Nguyen Anh Tu
+Rwth Aachen
+Tongtong Song
+Guinan Li
+Sewade Ogun
+Claudia Cevenini
+Athanasia–Lida Dimou
+Takashi Fukuda; IBM
+Chuyu Huang
+Mai Hoang Dao
+Keiko Ochi
+Paola Garcia
+Bin Ma
+Pasquale D'Alterio
+Rajiv Mathews
+Amir Hussain
+Junjie Lai
+Jasha Droppo ; Alexa
+Christophe Van Gysel
+Angela Roberts
+Jongmo Sung
+Yiming Wang
+Honza Silovsky
+Suranga Nanayakkara
+Tirana Noor Fatyanosa
+Martin Sustek
+Shuangyu Chang
+Hanchu Zhang
+Ashutosh Sabharwal
+Shuming Ma
+Kate Knill
+Yuxuan Xi
+Clayton Tan
+Ke Wu
+Bingshuai Li
+Sageev Oore
+Donald Williamson
+Phil Woodland
+Samy Bengio
+Naokazu Uchida
+Ilya Oparin
+Qiang Xu
+Yujun Wang
+Minh-Châu Nguyên
+Erik Visser
+Roberto Barra-Chicote
+Tomer Wullach
+Jiakai Zou
+Runyan Yang
+Partha Parthasarathy
+Mingshuang Luo
+Serguei Pakhomov
+Preethi Jyothi ; IITB
+Isabel Leal
+Huang Hu
+Anil Kumar Vuppala
+Guangzhi Sun
+Baohua Xu
+Akihiro Tamura
+Grecia Salazar
+Donghyeon Kim
+Zhikai Zhou
+Hung-Yi Lee ; NTU
+Gaofeng Cheng
+Longfei Yang
+Nimshi Venkat Meripo
+Darshan Adiga Haniya Narayana
+Anja Virkkunen
+Perez Ogayo
+Junfeng Hou
+Jiamin Xie
+Fujie Zhang
+Seungsang Oh
+Guanbo Wang
+Youssef Oualil
+Bowen Xu
+Jeremy Steffman
+Dmitry Kalashnikov
+Neil Zeghidour
+Nurmemet Yolwas
+Pascale Fung
+Seong-Hwan Heo
+Adithya Raj Kolladath
+Hamid Reza Hassanzadeh
+Caixia Gong
+A. R. Jayan
+Yifan Gong; MSR
+Shaojun Gao
+Hadeel Saadany
+Tanel Alumäe
+Neeraj Gaur
+Made Nindyatama Nityasya
+Roddy Fuentes Alba
+Reem Gody
+Yosi Shrem
+Eleanor Chodroff
+Nikesh Garera
+Rupak Vignesh Swaminathan
+Jordan R. Green
+Nhat Ho
+Kwangyoun Kim
+Maziar Goudarzi
+Zhaoran Liu
+Thomas Schaaf
+Katrin Tomanek
+Zeyu Cui
+Julia Kreutzer
+Seo-Hyun Lee
+Bryan Anderson
+Bogdan Ludusan
+Pablo Peso Parada
+Andrea Alicehajic
+Lei Xie ; NPU
+Jonathan Harrington
+Young-Eun Lee
+Dogan Can
+George Saon
+Herve Bourlard ; EPFL
+Wei Wu
+Thilo Von Neumann
+Nathalie Leveque
+Youngmoon Jung
+Claudia Crocco
+Dading Chong
+Aravind Ganapathiraju
+Yoonjeong Lee
+Akshat Pandey
+Akshat Shrivastava
+Aletheia Cui
+Nicola Pia
+Chengzhu Yu
+Séverine Guillaume
+Shangeth Rajaa
+Jisi Zhang
+Aswarth Abhilash Dara
+Nicolás Serrano
 Visar Berisha
 David Harwath
-Yosuke Higuchi
-Heiga Zen ; Google
-Hung-Yi Lee; NTU
-Sunhee Kim
-Yan Lu
-Binxing Jiao
-Tohru Nagano; IBM
-Alon Benhaim
-Jana Van Canneyt
-Ayman Mansour
-Tomohiko Nakamura
-Mahir Morshed
-Zhuoya Liu
-Salim Jouili
-Amir Harati
-Stefan Braun
-Marelie H. Davel
-Pengcheng Li; iFLYTEK
-Zhaoran Liu
-Boris Bergsma
-Gabriela Stegmann
-Michael Chinen
-Biswaranjan Pattanayak
-Binbin Zhang; Horizon
-Amrutha Prasad
-Shaohan Huang
-Yongqing Wang
-Kwanghee Choi
-Fuping Pan; Horizon
-Yu Tsao
-Deng Cai
-Akihiko Takashima
-Partha Parthasarathy
-Yusuke Shinohara
-Shigeki Sagayama
-Diyuan Liu
-Andrea Cavallaro
-Peng-Jen Chen
-Mudit D. Batra
-Martin Kišš
-Heming Wang
-Aaron Yi Ding
-Jin-Seong Choi
-Yingyi Ma
-Weigong Pan
+Yixuan Zhang
+Youxiang Zhu
+Keqi Deng
+Guillaume Fuchs
+Binbin Zhang ; Horizon
+Rohit Prabhavalkar; Google
+Dexin Liao
 Fredrik Sandin
-Shyam Upadhyay
-Yi Zhu
-Gaofeng Cheng
-Tanja Schultz
-Junteng Jia
-Lingwei Meng
-Lingyun Feng
-Cornelius Weber
-Ondrej Klejch
-Tinglong Liao
-Tamás Grósz
-David M. Chan
-Sahiti Nori
-Yoonjeong Lee
-Farhad Javanmardi
-Jun Hwan Ahn
-Athanasios Mouchtaris
-Sefik Emre Eskimez
-Jiayi Fu
-Qiang Yu
-Pingchuan Ma
-Rongfeng Su
-Zhijie Shen
-Eun Jung Yeo
-Leon Liebig
-Fei Teng
-Zhijian Ou
-Sanjeev Khudanpur; JHU
-Shaojin Ding
-Youngmoon Jung
-Vinay Namboodiri
-Karl Pertsch
-Guitao Wang
-Kailash Gopalakrishnan
-Jarod Duret
-Naveen Parihar
-Shlomo E. Chazan
-Maxime Burchi
-Murali Karthick Baskar
-Rahmad Mahendra
-Kishan Gupta
-Vince Chen
-Michael Ryoo
-Fuji Ren
-Vishwa Shah
-Fanny Meunier
-Nari Rhee
-Yohei Kawaguchi
-Aswin Shanmugam Subramanian
-Chengdong Yao
-Ziyang Ma
-Jeonghan Lee
-Tobias Bocklet
-Franziska Braun
-Jing Xiao
-Sathish Indurti
-Kaixun Huang
-Xu Tan
-Le Gan
-Youzheng Chen
-Atsushi Ando
-Yuexian Zou
-Phani Sankar Nidadavolu
-Bahman Mirheidari
-Ganesh Mirishkar
-Jieun Kiaer
-Jan Niehues
-Ronan Collobert
-Juntae Kim
-Maximilian Karl Scharf
-Lionel Fontan
-Jiajun Zhang
-Mohammad Reza Mohammadi
-Chandrakiran C
-Helmer Strik
-Pengwei Wang
-Wanghaoqian
-Darshan Adiga Haniya Narayana
-Hung-Yi Lee ; NTU
-Lokesh Gupta
-Lukas Burget
-Ahmed Ali
-Jón Guðnason
-Koharu Horii
-Zixia Fan
-Manaal Faruqui
-Tao Wei
-Sundararajan Srinivasan
-Junlan Feng
-Yuying Xie
-Anuroop Sriram
-Tobias Wolff
-Mingqing Chen
-Piotr Żelasko
-Bhuvana Ramabhadran; Google
-Junrui Ni
-Yushi Ueda
-Arber Zela
-Jennifer Cole
-John H. L. Hansen
-Eng Siong Chng
-Cécile Fougeron
-David Feinberg
-Yusuke Kida
-Takaomi Kato
-Xiao Jing; PingAn
-Stefano Bannò
-Liqun Deng
-Lars Rumberg
-Ricardo Oliveira
-Mai Hoang Dao
-Torbjørn Svendsen
-Yingying Gao
-Lester Phillip Violeta
-Aditya Yadavalli
-Lukas Drude
-Roland Maas; JHU
-Yan Gao
-Erfan Loweimi
-Shuang Xu
-Guidong Zheng
-Tianzi Wang
-Mikel K. Ngueajio
-Rui Heng Yang
-Zehua Zhang
-Wiebke Toussaint
-Zhikai Zhou
-Meiko Fukuda
-Raviteja Chinta
-Hermann Ney; RWTH Aachen
-Minhwa Chung
-Gautam Tiwari
-Ulrike Lüdtke
-Hussel Suriyaarachchi
-Jinchuan Tian
-Joseph Savold
-Shang-Wen Li
-Tal Remez
-Tongtong Song
-Huaying Xue
-Alexis Michaud
-Chengfei Li
-Eric Sun
-Georgios Rouvalis
+Grant Theron
+Christophe Cerisara
+Fei Xia
+Kai Shen
 Shinji; Dong Yu
-Yanlu Xie
-Tomoki Hayashi
-Shuo Ren
-Jiajun Deng
-Will Rieger
-Colin Cherry
-Xin Xu
-Wei-Lun Wu
-Jerome Goulian
-Xiong Wang
-Radu Timofte
-Giampiero Salvi
-T. V. Prabhakar
-Julia Schwarz
-Lu Fan
-Kurt Partridge
-Sean Augenstein
-Arjit Jain
-Isabelle Ferrané
-Johan Adam Du Preez
-Oana-Maria Camburu
-Hadrien Titeux
-Maximin Coavoux
-Anna Piunova
-Jincen Wang
-Marco Naguib
-Christoph Minixhofer
-Yu Wang
-Antti Veikko Rosti
-Boxing Chen
-Rina Panigrahy‎
-Megh Thakkar
-Frederic Assal
-David Chan
-Lu Zhang
-Bharat Ram Ambati
-Katrin Tomanek
-Takahiro Shinozaki ; TIT
-Ilya Sutskever
-Ioannis Tsiamas
-Zhiqiang Zhuang
-Dong Wang
-Shuhua Zhang
-W. Ronny Huang
-Oralie Cattan
-Beena Ahmed
-Xiaorui Wang
-Sirui Wang
-Ngoc N. Tran
-Shuzhou Chai
-Bowon Lee
-Lucas Ondel
-Dong Yu
-Shushan Qiao
-Jiangtao Yu
-Mark J. F. Gales
-Bence Halpern
-Andrei Bîrlădeanu
-Karthik Ganesan
-Justice Carbajal
-Furu Wei; MSRA
-Trevor D. Strohman
-Kevin Eloff
-Bowen Xu
-Grecia Salazar
-Ayimnisagul Ablimit
-Daehun Yoo
-Bohan Li
-A. R. Jayan
-Ian Mcloughlin
-Pranay Dighe
-Kuan-Yu Chen
-Shujie Hu
-Seung-Hyun Lee
-Seungmin Shin
-Songxiang Liu
-Jounghee Kim
-Longxiang Zhang
-Yukiko Nakano
-Wei Chen
-Jiahui Pan
-Jun Qi
-Jiakun Shen
-Jiang Bian
-Weibin Zhu
-Ryo Masumura
+Masaya Ohagi
+Ruoming Pang ; Google
+Edward Ombui
+Paul-Ambroise Duquenne
+Igor Szöke
+Salim Jouili
+Yuping Wang
 Xiaohai Tian
-Deepak Baby
-Yuan-Fang Li
-Liam Lonergan
-Marina Laganaro
-Pingan
-Ehsan Shareghi
-Kaizhi Qian
-Luke Prananta
-Mattias Nilsson
-Sally Jesmonth
-David R. Mortensen
-Jinhan Wang
-Kate M. Knill
-Jens Frahm
-Qu Yang
 Changli Tang
-Yun Tang
-Lyes Khacef
-Umesh S
-Ankita Pasad
-Maxime Fily
-Naoya Watabe
-Pedro Moreno ; Google
-Jash Rathod
-Long Mai
-Thien Nguyen
-Katrin Kirchhoff
-Hoon Kim
-Yingyan Lin
-Naipeng Ye
-Kai Zhen
-Norihide Kitaoka; TUT
-Hao Tang
-Youzheng Wu; JD
-Swaroop Ramaswamy
-Samy Bengio
-Paula Andrea Pérez-Toro
-Xinlin Li
-Zhiyuan Zhao
-Motoi Omachi
-Tariq Afzal
-Björn Schuller
-Jonathan J. Macoskey
-Rajiv Mathews
-Ru Ye
-Hai Li
-Rosanna Turrisi
-Kirsty Mcdougall
-Dimitrios Stoidis
-Jason Lilley
-Yonghui Wu; Google
-Guinan Li
-Md Tahmid Rahman Laskar
-Saki Mizuno
-Amy Shah
-Zhenyu Wang
-Kushal Lakhotia
-Yi Liu
-Xingyu Na
-Yuanchao Li
-Jiangyan Yi
-Zhengkun Tian
-Quan Wang
-Zhihua Wei
-Alexander Johnson
-Anne Hermes
-Sunmook Choi
-Bowen Zhang
-Vincent Vandeghinste
-Yinghui Huang; Google
-Jimmy Lin
-Wen Chin Huang
-Pierre Andrews
-Tatiana Likhomanenko
-Dat Quoc Nguyen
-Hainan Xu
-Nhat Ho
-Shu-Jie Liu
-Florence Indede
-Injy Hamed
-Jian-Qing Gao
-Ioana Vasilescu
-Hao Yang
-George Saon
-Salvatore Fara
-Sriram Ganapathy
-Sunit Sivasankaran
-Lena Jäger
-Ruchir Travadi
-Sravya Popuri
-Lara Mcconnaughey
-Xenia Kogler
-Stefan Riezler
+Vamsi Krishna Ithapu
+Dominique Vaufreydaz
+Jon Barker
+Michal Hradiš
+Adam Finkelstein
+Yu Chen
+Shinji ; Dong Yu
+Jianjing Kuang
+Jianwei Yu
 Jianqing Gao
-Ahnaf Mozib Samin
-Xiao Jing ; PingAn
-Xiaoquan Ke
-C V Jawahar
-Sandra Aluísio
-Peng Zhou
-Stephanie Borel
-Joseph Dabis
-Song Cheng
-Shivani Agrawal
-Sathvik Udupa
-Shan Liang
-Sang-Ho Kim
-Debadeepta Dey
-Sunil Sivadas
-Yuxuan Wang
-Tomoki Toda
-Christoph Lüscher
-Changhan Wang
-Abhayjeet Singh
-Wen Ding
-Jade Copet
-Jianwei Niu
-Pawel Swietojanski
-Pengcheng Li ; iFLYTEK
-Takao Okuda
-Xunying Liu ; CUHK
-David Haws
-Takafumi Moriya
-Aramys Miranda
-Yu Wu
-Sebastian Ruder
-Kaituo Xu
-Nobukatsu Hojo
-Konstantinos Kyriakopoulos
-Chengzhu Yu
-Iuliia Nigmatulina
-Vincent Colotte
-Hardik Sailor
-Giuseppe Riccardi
-Yuan Cao
-Julien Diard
-Min Ma
-Tara Sainath; Google
-Preethi Jyothi; IITB
-Daxin Jiang
-Murali Alagesan
-Chenfeng Miao
-Pavel Kolčárek
-Tianhe Yu
-Thomas Hillemacher
-Jinkun Chen
-Dominik Wagner
-Haoran Miao
-Xiaodong He
-Jonathan Le Roux
-Jon P Barker ; Sheffield
-Jeongkyun Park
-Chayan Sarkar
-Chengdong Liang
-Xiong Xiao
-Ruili Wang
-Anna Warzybok
-Ding Ma
-Kay Peterson
-Weinan E
-Venkatesh Ravichandran
-Yatharth Saraf
-Kuan-Yu Chen Ntw
-Chongjia Ni
-Yi-Ting Chen
-Mengjie Qian
-Tetsunori Kobayashi ; Waseda
-Tresi Arvizo
-Feijun Jiang
-Liuhui Deng
-Phil Hoole
-Jungwook Choi
-Jianguo Wei
-Srinivasan Umesh
-Yuanyuan Zhang
-Tao Xu
-Jianyi Yang
-Honza Silovsky
-Manfred Vogel
-Julien Pinquier
+Guan-Ting Lin
+Michael Auli
+Jun Zhou
+Hsin-Min Wang
+Kengo Ohta
+Prasanta Ghosh
+Patrick Von Platen
+Xingshan Zeng
 Navidreza Asadi
-Georgios Paraskevopoulos
-Shu Yu
-Mostafa Shahin
-Na Xu
-Xuyi Zhuang
-Sangwoo Park
-Sheng Li
-Itsumi Saito
-Li Fu
-Zhong-Qiu Wang
-Shengqiang Li
-Hugo Van Hamme
-Zhihao Wang
-Yukun Feng
-Miran Oh
+Jianguo Wei
+Esaú Villatoro-Tello
+Ganesh Sivaraman
+Jens Frahm
+Björn Schuller
+Yiran Chen
+Hyeonseung Lee
+Feng-Ju Chang
+Helen Meng; CUHK
 Runyu Wang
-Philip N. Garner; Idiap
-June Choe
-Shota Horiguchi
-Nanxin Chen
-Seyyed Saeed Sarfjoo
-Linhao Dong
-Ting-Wei Wu
-Jordan R. Green
-Zijian Yang
-Beom Jun Woo
-Noah Brown
+Yukun Liu
+Tom Francart
+Ning Jiang
+Bowon Lee
+Birger Kollmeier
+Jianwu Dang; Tianjin
+Keith Stevens
+Heinrich Dinkel
+Yuna Lee
+Xiaoming Xhang
+Junteng Jia
+Jing Shao
+Kuaishou
+Changhan Wang
+Nathaniel Romney Robinson
+Zhiyong Yan
+Jornell Quiambao
+Joon Byun
+Andreas Liesenfeld
+Yashesh Gaur; MSR
+Chao Xing
+Xiaohuan Zhou
+Shuai Zhang
+Kunnar Kukk
+Meta Ai
+Elmar Nöth
+Raphael Olivier
+Lin Li
+Kaixun Huang
+Sreepratha Ram
+Yangyang Shi
+Hermann Ney; RWTH Aachen
+Qiu-Shi Zhu
+Zoran Cvetkovic
+Emily Prud'Hommeaux
+Yao Qian; MS
+Chang Zhou
+Li Zhao
+Long Ma ; Tencent
+Konstantinos Kyriakopoulos
+Shujie Liu ; MSRA
+Qiuqiang Kong
+Hyun Kyung Hwang
+Bryan Wilie
+Leda Sari
+Marco Landt-Hayen
+Emmanuel Dupoux
+Jan Østergaard
+Anthony Brohan
+Han Zhu
+Muqiao Yang
+Kuan-Yu Chen Ntw
+Juan Rafael Orozco-Arroyave
+Wei Peng
+Brian Ichter
+Yulianti Oenang
+Tielin Zhang
+Shengjie Li
+Hui Chen
+Hung-Yi Lee; NTU
+Kazunori Komatani
+Jin Wang
+Jinchuan Tian
+Alexei Baevski
+John H. L. Hansen
+Kuan-Yu Chen
+Ian Lane ; CMU
+Yingbo Gao
+Kaiqi Fu
+Jacob Donley
+Zhongqin Wu ; Horizon
+Pannag Sanketi
+Yufeng Tang
+Guolong Zhong
+Nam Soo Kim
+Muhammad Hilmi Asyrofi
+Cydnie Davenport
+Arber Zela
+Tetsunori Kobayashi ; Waseda
+Saki Mizuno
+Petr Schaffer
+Javad Peymanfard
+François Remy
+Nikhil J Joshi
+Kyuhong Shim
+Qingyang Hong
+Hermann Ney ; RWTH Aachen
+Takaomi Kato
+Andreas Stolcke
+Sharu Theresa Jose
+Alberto Abad
+Boris Ginsburg; Nvidia
+Takato Yamazaki
+Helmer Strik
+Junyi Ao
+Anissa Gladney
+Christian Fuegen
+Kate M. Knill
+Lingwei Meng
+Zhizhong Ma
+Xie Chen
+David Moeljadi
+Chia-Yu Chen
+Jingyu Hou
+Tassadaq Hussain
+Xin Gao
+Rami Botros
+Ganesh Ramakrishnan
+Puneet Mathur
+Joseph Keshet
+Xiang-Yang Li
+Zhong Li
+Aramys Miranda
+Alex Herzog
+Xianrui Zheng
+Kanishka Rao
+Yuki Takashima
+Jintao Jiang
+Li Liu ; CUHK.SZ
+Ignacio Lopez-Moreno
+Khalil Bibi
+Keyu An
+Pu Wang
+Agnieszka Dobrowolska
+Damian Borth
+Pan-Pan Jiang
+José A. R. Fonollosa
+Arun Babu
+Vassilis Katsouros
+Guilin Qi
+Andrea Slachevsky
+Jodilyn Peralta
+Tsuneo Kato
+Julian Ibarz
+Jing Su
+Keiho Owada
+Kaitao Song
+Li Dong
+Yong Cheng
+Hongyu Xiang
+Tongtong Wu
+Radu Tudor Ionescu
+Shankar Kumar
+Heng Lu
+Fajri Koto
+Ichwanul Muslim Karo Karo
+Heli Qi
+Vijay Ravi
+Michal Kula
+Florian Metze
+Wen Chin Huang
+Gautam Tiwari
+Willi Rath
+Jungwook Choi
+Emil Nadimanov
+Heiga Zen; Google
+Arie Ardiyanti Suryani
+Gongzhen Zou
+Julie Carson-Berndsen
+Hao Huang; Xinjiang
+Sibel Oyman
+Theodoros Kouzelis
+Emilia Molimpakis
+Nathalie Tran
+Kohei Matsuura
+Nathan Susanj
+Zhendong Peng ; WeNet
+I-Chun Chern
+Fanny Degouis
+Chen Chen
+Ming Tu
+Elika Bergelson
+Maxime Fily
+Olabanji Shonibare
+Zaharah Bukhsh
+Shuang Xu
+Shun-Po Chuang
+Vincent Vanhoucke
+Elmar Noeth
+Pawan Goyal
+Hynek Hermansky; JHU
+Meng Ge
+Nithya Ravi
+Apple
+Arsha Nagrani
+Rishabh Kumar
+Zhifan Ye
+Srikanth Madikeri
+Ralf Schlüter; RWTH Aachen
+Sakriani Sakti
+Manami Hirayama
+Beier Zhu
+Hongyu Song
+Cheng Yi
+Gloria Washington
+Sang-Ho Kim
+Yun Tang
+Hanan Aldarmaki
+Yonghong Yan ; CAS
+Noriko Nakanishi
+Anton Lozhkov
+Chuanbo Zhu
+Yeqian Du
+Chin-Hui Lee
+Ramit Sawhney
+Tim Ng
+Tomasz Rutowski
+Ruoming Pang; Google
+Veronique Delvaux
+Tao Qin
+Spyridoula Stamouli
+Karel Vesely
+Khalid Choukri
+Sahiti Nori
+Christian Heider Nielsen
+Alejandrina Cristia
+Jasmine Hsu
+Tao Xu
+Zhanheng Yang
+Guitao Wang
+Yi Shen
+Hardik Sailor
+Zhiyun Fan
+Yohei Kawaguchi
+Ilia Kulikov
+Daisuke Saito
+Yerbolat Khassanov
+James Jaya
+Johan Adam Du Preez
+Grant Bridgman
+Kilol Gupta
+Thomas Hillemacher
+Karol Nowakowski
+Yonghui Wu; Google
+Jinsong Zhang
+Adria Mallol-Ragolta
+Christopher Homan
+Ebbie Awino
+Rachid Ridouane
+Xia Zhang
+Jinpeng Li
+Shuzhou Chai
+Emily Mower Provost
+Xiaodong He
+Sunayana Sitaram
+Tomohiro Tanaka
+Holger Schwenk
+Matthew Radzihovsky
+Haolin Zuo
+Gerard I. Gállego
+Haeyoung Kwon
+Pengfei Hu
+Feng Wang
+Josef Baloun
+Cyril Allauzen
+Gernot Kubin
+Sarah Anne Tao
+Somshubra Majumdar; Nvidia
+Hieu Nguyen
+Xiao Wei
+Lan Wang
+Elisabetta Chicca
+Sathish Indurti
+Qiao Tian
+T. V. Prabhakar
+Kazuhiro Nakadai
+Jeffrey Zhao
+Lara Mcconnaughey
+Vinicius Ribeiro
+Richard Rose
+Puyuan Peng
+Zecheng Wang
+Bowen Shi
+Mark Gales
+Sei Ueno
+Junpeng Liu
+Zhengchen Zhang
+Kevin Eloff
+Jiakun Shen
+Di Wu
+Jennifer Fox
+Simon Stone
+Frederikus Hudi
+Supreeth Rao
+Feijun Jiang
+Kirrie Ballard
+Hongwei Ding
+Ye Wang
+Reinhold Haeb-Umbach
+Jiatong Shi
+Qingcheng Zeng
+Ding Ma
+Jiacheng Xu
+Junliang Guo
+Jiangyi Deng
+Seungu Han
+Jacob C. Reyna
+Steve Vega
+John H.L. Hansen
+Jan Cernocky
+Marie-Francine Moens
+Aku Rouhe
+Zhehuai Chen; Google
+Engin Erzin
+Shlomo E. Chazan
+Kevin Sayed
+Tobias Bocklet
+Jung-Wook Hwang
+Helen M. Meng
+Keiji Yasuda
+Toshiki Kawamoto
+Haoran Miao
+Daniel Blackburn
+Lawrence Muchemi
+Eric Fosler-Lussier
