@@ -207,7 +207,7 @@ def update_by_arxiv():
             "URL": {"type": "url", "url": result.pdf_url},
             "Authors": {"type": "multi_select", "multi_select": [{"name": check_and_add_au(au.name)} for au in result.authors]},
             "Keys": {"type": "multi_select", "multi_select": []},
-            
+
             "keywords": {"type": "multi_select", "multi_select": []},
             "authors": {"type": "rich_text", "rich_text": []},
             "abstracts": {"type": "rich_text", "rich_text": [{'type': 'text', 'text': {'content': result.summary}}]},
