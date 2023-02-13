@@ -222,9 +222,11 @@ update_by_arxiv()
 
 
 def save():
+    PAPERS = sorted(list(PAPERS))
     with open("paper/papers", "w") as f:
         for k in PAPERS:
             f.write(f"{k}\n")
+    AUTHORS = sorted(list(AUTHORS))
     with open("paper/authors", "w") as f:
         for k in AUTHORS:
             f.write(f"{k}\n")
