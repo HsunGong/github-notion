@@ -163,7 +163,7 @@ arxiv_map = {}
 def update_by_arxiv():
     search = arxiv.Search(
         query='all:"speech recognition"',
-        max_results=210,
+        max_results=100,
         sort_by=arxiv.SortCriterion.SubmittedDate,
         sort_order=arxiv.SortOrder.Descending
     )
@@ -171,7 +171,9 @@ def update_by_arxiv():
     for result in search.results():
         name = process_name(result.title)
         if name in PAPERS:
+            print(name, "is added")
             continue
+
 
         # result.entry_id: A url http://arxiv.org/abs/{id}.
         # result.updated: When the result was last updated.
