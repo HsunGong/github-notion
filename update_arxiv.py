@@ -221,6 +221,7 @@ update_by_arxiv()
 
 
 def save():
+    global PAPERS, AUTHORS
     PAPERS = sorted(list(PAPERS))
     with open("paper/papers", "w") as f:
         for k in PAPERS:
