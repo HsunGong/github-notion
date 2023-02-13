@@ -220,7 +220,6 @@ def update_by_arxiv():
 update_by_arxiv()
 
 
-
 def save():
     PAPERS = sorted(list(PAPERS))
     with open("paper/papers", "w") as f:
