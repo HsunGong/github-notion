@@ -213,6 +213,7 @@ Ayu Purwarianti
 Bach Bui
 Badrinath Jayakumar
 Bahman Mirheidari
+Baiji Liu
 Baishun Ling
 Baocai Yin
 Baohua Xu
@@ -320,6 +321,7 @@ Changli Tang
 Changye Li
 Chanhee Park
 Chanwoo Kim
+Chao Chen
 Chao Deng
 Chao Li
 Chao Xing
@@ -609,6 +611,7 @@ Felix Kreuk
 Felix Meyer
 Felix Weninger
 Felix Wu
+Feng Guo
 Feng Hou
 Feng Wang
 Feng-Ju Chang
@@ -640,14 +643,12 @@ Fuji Ren
 Fujie Zhang
 Fumio Nihei
 Fuping Pan ; Horizon
-Fuping Pan; Horizon
 Furu Wei ; MSRA
 Furu Wei; MSRA
 Gabriel Kreiman
 Gabriel Roccabruna
 Gabriela Stegmann
 Gakuto Kurata ; IBM
-Gakuto Kurata; IBM
 Ganesh Mirishkar
 Ganesh Ramakrishnan
 Ganesh Sivaraman
@@ -687,6 +688,7 @@ Giuseppe Magistro
 Giuseppe Riccardi
 Gloria Washington
 Gobinda Saha
+Goeric Huybrechts
 Golan Pundak
 Gongzhen Zou
 Google
@@ -813,7 +815,6 @@ Hermann Ney ; RWTH Aachen
 Hermann Ney; RWTH Aachen
 Herry Sujaini
 Herve Bourlard ; EPFL
-Herve Bourlard; EPFL
 Hervé Bredin
 Heting Gao
 Hexin Liu
@@ -846,6 +847,7 @@ Hongyu Xiang
 Honza Silovsky
 Hoon Kim
 Hosam Khalil
+Hossein Ghodosi
 Hossein Katebi
 Hossein Zeinali
 Houjian Guo
@@ -885,7 +887,6 @@ Hyungseok Jeon
 I-Chun Chern
 I-Fan Chen
 Ian Lane ; CMU
-Ian Lane; CMU
 Ian Mcgraw
 Ian Mcloughlin
 Ichwanul Muslim Karo Karo
@@ -1023,7 +1024,6 @@ Jianqing Gao
 Jianwei Niu
 Jianwei Yu
 Jianwu Dang ; Tianjin
-Jianwu Dang; Tianjin
 Jianxin Pang
 Jianyi Yang
 Jianzong Wang
@@ -1051,7 +1051,6 @@ Jin-Seong Choi
 Jincen Wang
 Jinchuan Tian
 Jindong Wang ; MSRA
-Jindong Wang; MSRA
 Jinfeng Bai
 Jing Liu
 Jing Shao
@@ -1061,6 +1060,7 @@ Jing Xiao
 Jing Zhang
 Jing Zhao
 Jingdong Chen
+Jingjin Li
 Jingjing Dong
 Jingjing Xu
 Jingjing Yin
@@ -1327,9 +1327,11 @@ Leda Sari
 Leda Sarı
 Lee Hungyi
 Lei He
+Lei Ju
 Lei Liu ; CUHK.SZ
 Lei Liu; CUHK.SZ
 Lei Ma
+Lei Pan
 Lei Sha
 Lei Sun
 Lei Wang
@@ -1481,7 +1483,6 @@ Masato Mimura
 Masato Murata
 Masaya Ohagi
 Masayuki Suzuki ; IBM
-Masayuki Suzuki; IBM
 Massa Baali
 Matheus Damasceno
 Mathieu Martel
@@ -1497,6 +1498,7 @@ Matthias Kleinert
 Mattias Nilsson
 Maureen De Seyssel
 Mauricio Serrano
+Maurits Bleeker
 Maurizio Omologo
 Max Bain
 Maxime Burchi
@@ -1604,6 +1606,7 @@ Monica Sunkara
 Morena Danieli
 Morgane Rivière
 Morrie Doulaty
+Mostafa Rahimi Azghadi
 Mostafa Sadeghi
 Mostafa Shahin
 Motoi Omachi
@@ -1703,7 +1706,6 @@ Nobutaka Ono
 Nobuyasu Itoh
 Nobuyuki Morioka
 Norihide Kitaoka ; TUT
-Norihide Kitaoka; TUT
 Noriko Nakanishi
 Nurmement Yolwas
 Nurmemet Yolwas
@@ -1858,6 +1860,7 @@ Qiang Zhang
 Qiantong Xu
 Qiao Liang
 Qiao Tian
+Qiaochu Huang And
 Qibing Bai
 Qing He
 Qing Zhao
@@ -1896,7 +1899,6 @@ Ralf Schluter; AppTek
 Ralf Schlüter ; RWTH Aachen
 Ralf Schlüter; RWTH Aachen
 Rama Doddipatla ; Toshiba
-Rama Doddipatla; Toshiba
 Rama Sanand Doddipatla
 Rami Botros
 Ramit Sawhney
@@ -1971,7 +1973,6 @@ Running Zhao
 Runyan Yang
 Runyu Wang
 Ruoming Pang ; Google
-Ruoming Pang; Google
 Ruoyu Wang
 Rupak Vignesh Swaminathan
 Rupeshkumar Mehta
@@ -1988,7 +1989,6 @@ Ryo Fukuda
 Ryo Ishii
 Ryo Masumura
 Ryota Nishimura ; Toku.
-Ryota Nishimura; Toku.
 Ryu Takeda
 Sabato Marco Siniscalchi
 Sabato Siniscalchi
@@ -2128,6 +2128,7 @@ Shira Hahn
 Shiren Li
 Shivani Agrawal
 Shiwan Zhao
+Shiyin Kang
 Shiyu Chang
 Shiyu Zhou
 Shlomo E. Chazan
@@ -2259,7 +2260,6 @@ Séverine Guillaume
 T. V. Prabhakar
 Ta Duc Huy
 Ta Li1 ; CAS
-Ta Li1; CAS
 Taesu Kim
 Taihao Li
 Taiichi Hashimoto
@@ -2269,13 +2269,11 @@ Takafumi Moriya
 Takahiro Aizawa
 Takahiro Mochizuki
 Takahiro Shinozaki ; TIT
-Takahiro Shinozaki; TIT
 Takanori Ashihara
 Takao Nakamura
 Takao Okuda
 Takaomi Kato
 Takashi Fukuda ; IBM
-Takashi Fukuda; IBM
 Takashi Maekaku
 Takato Yamazaki
 Takeshi Homma
@@ -2360,7 +2358,6 @@ Titouan Parcollet
 Tobias Bocklet
 Tobias Wolff
 Tohru Nagano ; IBM
-Tohru Nagano; IBM
 Tom Denton
 Tom Francart
 Tom Ko
@@ -2396,7 +2393,6 @@ Tsinghua ; xiaojing
 Tsinghua; xiaojing
 Tsu-Yuan Hsu
 Tsubasa Ochiai ; NTT
-Tsubasa Ochiai; NTT
 Tsuneo Kato
 Tuende Szalay
 Tyler Miller
@@ -2565,6 +2561,7 @@ Xiaozhi Wang
 Xiaozhou Zhou
 Xie Chen
 Xihong Wu
+Xilai Li
 Xin Fang
 Xin Gao
 Xin Jiang
@@ -2646,6 +2643,7 @@ Yao Qian ; MS
 Yao Qian; MS
 Yao Zhu
 Yao-Fei Cheng
+Yaoxun Xu
 Yasheng Wang
 Yashesh Gaur ; MSR
 Yashesh Gaur; MSR
@@ -2689,7 +2687,6 @@ Yinchuan Li
 Yingbo Gao
 Yingfa Chen
 Yinghui Huang ; Google
-Yinghui Huang; Google
 Yinglin Ji
 Yingyan Lin
 Yingyi Ma
@@ -2735,7 +2732,6 @@ Youssef Oualil
 Youxiang Zhu
 Youzheng Chen
 Youzheng Wu ; JD
-Youzheng Wu; JD
 Yu Bai
 Yu Chen
 Yu Luo
@@ -2815,6 +2811,7 @@ Yuxiang Kong
 Yuxiang Zou
 Yuxiao Lin
 Yuxing Yang
+Yuxuan Chen
 Yuxuan Hu
 Yuxuan Wang
 Yuxuan Xi
@@ -2860,6 +2857,7 @@ Zhen-Hua Ling
 Zhenchang Xing
 Zhendong Peng ; WeNet
 Zhendong Peng; WeNet
+Zheng Sun
 Zheng-Hua Tan
 Zhengchen Zhang
 Zhengfeng Du
@@ -2890,6 +2888,7 @@ Zhiqiang Zhuang
 Zhisheng Zheng
 Zhixiang Xiong
 Zhiyao Duan
+Zhiyong Wu
 Zhiyong Yan
 Zhiyuan Liu
 Zhiyuan Zhao
@@ -2907,7 +2906,6 @@ Zhongzhi Yu
 Zhou Yang
 Zhou Yu
 Zhouwang Yang ; USTC
-Zhouwang Yang; USTC
 Zhouyuan Huo
 Zhun Liu
 Zhuo Chen
